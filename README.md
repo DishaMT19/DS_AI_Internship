@@ -87,15 +87,16 @@ Dictionaries & Sets	4	day4fundamentals.py
 Dictionary Operations	4	day4fundamentals.py
 🎯 Learning Outcomes
 
-✅ Understanding Python syntax and basic operations
-✅ Working with different data types (int, float, string, bool)
-✅ Using conditional statements for decision-making
-✅ Accepting and processing user input
-✅ Creating and manipulating lists and tuples
-✅ Applying list methods for data manipulation
-✅ Understanding indexing and slicing in Python
-✅ Creating and using dictionaries and sets
-✅ Performing dictionary operations (add, update, delete, access)
+-✅ Understanding Python syntax and basic operations
+-✅ Working with different data types (int, float, string, bool)
+-✅ Using conditional statements for decision-making
+-✅ Accepting and processing user input
+-✅ Creating and manipulating lists and tuples
+-✅ Applying list methods for data manipulation
+-✅ Understanding indexing and slicing in Python
+-✅ Creating and using dictionaries and sets
+-✅ Performing dictionary operations (add, update, delete, access)
+
 ## Author
 
 Disha MT
