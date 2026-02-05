@@ -14,7 +14,9 @@ DS_AI_Internship/
     ├── Day 2/
     │   └── day2fundamentals.py
     └── Day 3/
-        └── day3fundamentals.py
+    |     └── day3fundamentals.py
+    └── Day 4/
+        └── day4_pythonfundamentals.py
 ```
 
 ## Course Content
@@ -74,24 +76,26 @@ python day3fundamentals.py
 
 ## Key Concepts Covered
 
-| Concept | Day | File |
-|---------|-----|------|
-| Basic Output | 1 | `Hello.py` |
-| Variables & Types | 2 | `day2fundamentals.py` |
-| Control Flow | 2 | `day2fundamentals.py` |
-| Lists & Tuples | 3 | `day3fundamentals.py` |
-| List Operations | 3 | `day3fundamentals.py` |
+📘 Internship Progress
+Concept	Day	File
+Basic Output	1	Hello.py
+Variables & Types	2	day2fundamentals.py
+Control Flow	2	day2fundamentals.py
+Lists & Tuples	3	day3fundamentals.py
+List Operations	3	day3fundamentals.py
+Dictionaries & Sets	4	day4fundamentals.py
+Dictionary Operations	4	day4fundamentals.py
+🎯 Learning Outcomes
 
-## Learning Outcomes
-
-✅ Understanding Python syntax and basic operations  
-✅ Working with different data types (int, float, string, bool)  
-✅ Using conditional statements for decision-making  
-✅ Accepting and processing user input  
-✅ Creating and manipulating lists and tuples  
-✅ Applying list methods for data manipulation  
-✅ Understanding indexing and slicing in Python  
-
+✅ Understanding Python syntax and basic operations
+✅ Working with different data types (int, float, string, bool)
+✅ Using conditional statements for decision-making
+✅ Accepting and processing user input
+✅ Creating and manipulating lists and tuples
+✅ Applying list methods for data manipulation
+✅ Understanding indexing and slicing in Python
+✅ Creating and using dictionaries and sets
+✅ Performing dictionary operations (add, update, delete, access)
 ## Author
 
 Disha MT
