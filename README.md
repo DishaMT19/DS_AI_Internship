@@ -118,6 +118,7 @@ DS_AI_Internship/
 - Modular Programming with Custom Modules  
 - Code Organization & Best Practices
   
+---
 
 ### 📘 Internship Progress
 
@@ -146,10 +147,12 @@ DS_AI_Internship/
 - ✅ Creating and using dictionaries and sets  
 - ✅ Performing dictionary operations (add, update, delete, access)
 
+---
 ## Author
 
 Disha M T
-
+---
 ## Last Updated
 
 February 5, 2026
+---
