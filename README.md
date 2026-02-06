@@ -151,8 +151,8 @@ DS_AI_Internship/
 ## Author
 
 Disha M T
----
+
 ## Last Updated
 
 February 5, 2026
----
+
