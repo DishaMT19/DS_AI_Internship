@@ -90,7 +90,7 @@ DS_AI_Internship/
 ## 📅 Day 5: Functions & Modules
 **Files:**  
 - src/Day 5/main.py  
-- src/Day 5/math_operations.py  
+- src/Day 5/math_operations.py
 
 **Topics Covered:**
 - Functions: Defining and calling functions
@@ -101,6 +101,7 @@ DS_AI_Internship/
 - Code Organization: Separating logic into reusable components
 - Real-world Practice: Power calculation and average computation
 
+---
 
 ### 🔑 Key Concepts Covered
 
