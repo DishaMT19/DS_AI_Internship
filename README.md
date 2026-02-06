@@ -17,6 +17,8 @@ DS_AI_Internship/
     |     └── day3fundamentals.py
     └── Day 4/
         └── day4_pythonfundamentals.py
+    └── Day 5/
+        └── day5_pythonfundamentals.py
 ```
 
 ## Course Content
@@ -90,6 +92,7 @@ python day3fundamentals.py
 | List Operations | 3 | `day3fundamentals.py` |
 | Dictionaries & Sets | 4 | `day4fundamentals.py` |
 | Dictionary Operations | 4 | `day4fundamentals.py` |
+| Function and Moduels  | 5  | `day5_pythonfundamentals.py`|
 
 ---
 
