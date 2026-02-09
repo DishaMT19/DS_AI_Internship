@@ -129,12 +129,6 @@ DS_AI_Internship/
 - Learned why the `with open()` syntax is the recommended approach for file handling in Python.
 - Understood how improper file handling can lead to memory leaks and resource exhaustion in larger applications.
 
-**Example:**
-```python
-with open("sample.txt", "r") as file:
-    content = file.read()
-    print(content)
-----
 
 ### 🔑 Key Concepts Covered
 
