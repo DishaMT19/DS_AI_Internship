@@ -21,8 +21,11 @@ DS_AI_Internship/
     |    └── day5_pythonfundamentals.py
     ├──Day 6/
     |   └── day6_pythonfundamentals.py
-    └──Day 7/
-        └── day7_pythonfundamentals.py
+    ├──Day 7/
+    |   └── day7_pythonfundamentals.py
+    └──Day 8/
+        └── day8_pythonfundamentals.py
+
 ```
 
 ## Course Content
@@ -129,22 +132,84 @@ DS_AI_Internship/
 - Learned why the `with open()` syntax is the recommended approach for file handling in Python.
 - Understood how improper file handling can lead to memory leaks and resource exhaustion in larger applications.
 
+  ---
+
+  ## 📅 Day 8: NumPy – Arrays, Broadcasting & Reshaping
+
+**File:**  
+- `src/Day 8/day8_numpy.py`
+
+**Topics Covered:**
+- NumPy Array Creation using `np.array()` and `np.arange()`
+- Broadcasting concepts for operations on arrays with different shapes
+- Vectorized computations for efficient numerical processing
+- Array Reshaping using `reshape()`
+- Transpose operations using `transpose()`
+- Statistical functions such as `np.mean()`
+- Axis-based computations (row-wise and column-wise operations)
+- Data preparation techniques for Machine Learning models
+
+---
 
 ### 🔑 Key Concepts Covered
 
-- Python Environment Setup & Tool Configuration  
-- Variables, Data Types, and Type Casting  
-- User Input Handling & Basic I/O  
-- Control Flow using Conditional Statements  
-- Arithmetic Operations & Error Handling  
-- Data Structures: Lists, Tuples, Dictionaries, and Sets  
-- Indexing, Slicing, and Iteration Techniques  
-- Data Cleaning using Sets  
-- Functions, Arguments, and Return Values  
-- Variable Scope (Local vs Global)  
-- Modular Programming with Custom Modules  
-- Code Organization & Best Practices
+- Development environment setup and tool configuration  
+- Python syntax and program structure  
+- Variables, data types, and type conversion  
+- User input handling and basic input/output operations  
+- Arithmetic operations and operator precedence  
+- Conditional statements and decision-making logic  
+- Core data structures: lists, tuples, dictionaries, and sets  
+- Indexing, slicing, and iteration techniques  
+- Data cleaning and duplicate handling using sets  
+- Function definition, arguments, and return values  
+- Variable scope and lifetime (local vs global)  
+- Modular programming and custom module creation  
+- File handling using context managers  
+- CSV file reading and structured data ingestion  
+- Exception handling using try–except blocks  
+- NumPy array creation and shape management  
+- Vectorized operations for efficient computation  
+- Broadcasting for element-wise array operations  
+- Array reshaping, stacking, and transposing  
+- Statistical operations for data normalization  
+- Preparing data with correct dimensions for machine learning models
+
   
+---
+
+### 📘 Overall Learning Summary (Day 1 – Day 8)
+
+- Gained familiarity with the development environment through system orientation, tool awareness, and workflow setup.
+- Installed and verified Python, configured VS Code and Anaconda, and established a structured development setup.
+- Created and managed GitHub accounts and repositories, enabling version control and project submission workflows.
+- Developed foundational understanding of Python syntax through basic programs and version verification tasks.
+- Learned core Python fundamentals including variables, data types, type casting, and operator precedence.
+- Practiced user input handling and basic input/output operations for interactive programs.
+- Applied arithmetic operations and implemented basic validation and error-handling logic.
+- Built logical decision-making skills using conditional statements and comparison operators.
+- Explored lists and tuples, focusing on indexing, slicing, mutability, and real-world use cases.
+- Utilized list methods for data manipulation and tuple immutability for configuration-style data.
+- Worked with dictionaries to manage structured key–value data and perform iteration.
+- Used sets to handle unique data collections, remove duplicates, and perform set operations such as intersection and membership testing.
+- Strengthened problem-solving skills through practical assignments like inventory management and data cleaning.
+- Learned function definition, argument passing, and return values to modularize code.
+- Understood variable scope and lifetime, distinguishing between local and global variables.
+- Implemented modular programming by importing standard libraries and creating custom Python modules.
+- Improved code organization, reusability, and readability following programming best practices.
+- Gained experience with file handling, including reading and writing files using context managers.
+- Parsed CSV files for structured data ingestion tasks.
+- Implemented robust error handling using `try` and `except` blocks to prevent runtime failures.
+- Introduced NumPy for numerical computing and array-based data processing.
+- Created NumPy arrays using `np.array()` and `np.arange()` and understood array shapes and dimensions.
+- Applied vectorized operations to perform efficient numerical computations without explicit loops.
+- Used broadcasting to perform element-wise operations between arrays of different shapes.
+- Manipulated array dimensions using reshaping, stacking, and transposing techniques.
+- Applied statistical functions such as mean calculation for data analysis and normalization.
+- Prepared structured data suitable for machine learning and deep learning models.
+- Understood the importance of correct data dimensions for image processing and neural network architectures such as CNNs.
+
+ 
 ---
 
 ### 📘 Internship Progress
@@ -161,20 +226,39 @@ DS_AI_Internship/
 | Function and Moduels  | 5  | `day5_pythonfundamentals.py`|
 | Function and Moduels with Specfic Task  | 6  | `day6_pythonfundamentals.py`|
 | File Handling  | 7 | `day7_pythonfundamentals.py`|
+| Numpy   | 8  |  `day8_pythonfundamentals.py` |
 
 ---
 
 ### 🎯 Learning Outcomes
 
-- ✅ Understanding Python syntax and basic operations  
-- ✅ Working with different data types (int, float, string, bool)  
-- ✅ Using conditional statements for decision-making  
+- ✅ Understanding system setup, development tools, and project workflows  
+- ✅ Installing and verifying Python and required development environments  
+- ✅ Using GitHub for repository creation and version control  
+- ✅ Understanding Python syntax and program structure  
+- ✅ Working with different data types (`int`, `float`, `string`, `bool`)  
+- ✅ Performing arithmetic operations and handling operator precedence  
 - ✅ Accepting and processing user input  
+- ✅ Using conditional statements for decision-making  
 - ✅ Creating and manipulating lists and tuples  
 - ✅ Applying list methods for data manipulation  
-- ✅ Understanding indexing and slicing in Python  
+- ✅ Understanding indexing, slicing, and iteration techniques  
 - ✅ Creating and using dictionaries and sets  
-- ✅ Performing dictionary operations (add, update, delete, access)
+- ✅ Performing dictionary operations (add, update, delete, access)  
+- ✅ Using sets for duplicate removal and set operations  
+- ✅ Writing reusable functions with arguments and return values  
+- ✅ Understanding variable scope (local vs global)  
+- ✅ Creating and importing custom Python modules  
+- ✅ Reading from and writing to files using context managers  
+- ✅ Parsing CSV files for structured data processing  
+- ✅ Handling runtime errors using try–except blocks  
+- ✅ Creating and manipulating NumPy arrays  
+- ✅ Applying vectorized operations for efficient computation  
+- ✅ Using broadcasting for element-wise array operations  
+- ✅ Reshaping, stacking, and transposing NumPy arrays  
+- ✅ Applying statistical functions for data normalization  
+- ✅ Preparing data with correct dimensions for machine learning models  
+
 
 ---
 ## Author
@@ -183,5 +267,5 @@ Disha M T
 
 ## Last Updated
 
-February 5, 2026
+February 10, 2026
 
