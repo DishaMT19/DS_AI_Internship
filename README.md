@@ -176,39 +176,6 @@ DS_AI_Internship/
 - Preparing data with correct dimensions for machine learning models
 
   
----
-
-### 📘 Overall Learning Summary (Day 1 – Day 8)
-
-- Gained familiarity with the development environment through system orientation, tool awareness, and workflow setup.
-- Installed and verified Python, configured VS Code and Anaconda, and established a structured development setup.
-- Created and managed GitHub accounts and repositories, enabling version control and project submission workflows.
-- Developed foundational understanding of Python syntax through basic programs and version verification tasks.
-- Learned core Python fundamentals including variables, data types, type casting, and operator precedence.
-- Practiced user input handling and basic input/output operations for interactive programs.
-- Applied arithmetic operations and implemented basic validation and error-handling logic.
-- Built logical decision-making skills using conditional statements and comparison operators.
-- Explored lists and tuples, focusing on indexing, slicing, mutability, and real-world use cases.
-- Utilized list methods for data manipulation and tuple immutability for configuration-style data.
-- Worked with dictionaries to manage structured key–value data and perform iteration.
-- Used sets to handle unique data collections, remove duplicates, and perform set operations such as intersection and membership testing.
-- Strengthened problem-solving skills through practical assignments like inventory management and data cleaning.
-- Learned function definition, argument passing, and return values to modularize code.
-- Understood variable scope and lifetime, distinguishing between local and global variables.
-- Implemented modular programming by importing standard libraries and creating custom Python modules.
-- Improved code organization, reusability, and readability following programming best practices.
-- Gained experience with file handling, including reading and writing files using context managers.
-- Parsed CSV files for structured data ingestion tasks.
-- Implemented robust error handling using `try` and `except` blocks to prevent runtime failures.
-- Introduced NumPy for numerical computing and array-based data processing.
-- Created NumPy arrays using `np.array()` and `np.arange()` and understood array shapes and dimensions.
-- Applied vectorized operations to perform efficient numerical computations without explicit loops.
-- Used broadcasting to perform element-wise operations between arrays of different shapes.
-- Manipulated array dimensions using reshaping, stacking, and transposing techniques.
-- Applied statistical functions such as mean calculation for data analysis and normalization.
-- Prepared structured data suitable for machine learning and deep learning models.
-- Understood the importance of correct data dimensions for image processing and neural network architectures such as CNNs.
-
  
 ---
 
@@ -258,6 +225,41 @@ DS_AI_Internship/
 - ✅ Reshaping, stacking, and transposing NumPy arrays  
 - ✅ Applying statistical functions for data normalization  
 - ✅ Preparing data with correct dimensions for machine learning models  
+
+
+---
+
+
+### 📘 Overall Learning Summary (Day 1 – Day 8)
+
+- Gained familiarity with the development environment through system orientation, tool awareness, and workflow setup.
+- Installed and verified Python, configured VS Code and Anaconda, and established a structured development setup.
+- Created and managed GitHub accounts and repositories, enabling version control and project submission workflows.
+- Developed foundational understanding of Python syntax through basic programs and version verification tasks.
+- Learned core Python fundamentals including variables, data types, type casting, and operator precedence.
+- Practiced user input handling and basic input/output operations for interactive programs.
+- Applied arithmetic operations and implemented basic validation and error-handling logic.
+- Built logical decision-making skills using conditional statements and comparison operators.
+- Explored lists and tuples, focusing on indexing, slicing, mutability, and real-world use cases.
+- Utilized list methods for data manipulation and tuple immutability for configuration-style data.
+- Worked with dictionaries to manage structured key–value data and perform iteration.
+- Used sets to handle unique data collections, remove duplicates, and perform set operations such as intersection and membership testing.
+- Strengthened problem-solving skills through practical assignments like inventory management and data cleaning.
+- Learned function definition, argument passing, and return values to modularize code.
+- Understood variable scope and lifetime, distinguishing between local and global variables.
+- Implemented modular programming by importing standard libraries and creating custom Python modules.
+- Improved code organization, reusability, and readability following programming best practices.
+- Gained experience with file handling, including reading and writing files using context managers.
+- Parsed CSV files for structured data ingestion tasks.
+- Implemented robust error handling using `try` and `except` blocks to prevent runtime failures.
+- Introduced NumPy for numerical computing and array-based data processing.
+- Created NumPy arrays using `np.array()` and `np.arange()` and understood array shapes and dimensions.
+- Applied vectorized operations to perform efficient numerical computations without explicit loops.
+- Used broadcasting to perform element-wise operations between arrays of different shapes.
+- Manipulated array dimensions using reshaping, stacking, and transposing techniques.
+- Applied statistical functions such as mean calculation for data analysis and normalization.
+- Prepared structured data suitable for machine learning and deep learning models.
+- Understood the importance of correct data dimensions for image processing and neural network architectures such as CNNs.
 
 
 ---
