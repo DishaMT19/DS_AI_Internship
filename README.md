@@ -110,7 +110,7 @@ DS_AI_Internship/
 
 ---
 
-## Day 7: Key Learnings
+## Day 6: Key Learnings
 
 - **Working with Files:** Learned how to open, read, write, and append data to files, enabling programs to store information persistently.
 - **Safe Resource Management:** Understood how using `with open()` automatically closes files after use, helping prevent memory leaks and file corruption.
@@ -263,6 +263,7 @@ DS_AI_Internship/
 
 
 ---
+
 ## Author
 
 Disha M T
