@@ -13,17 +13,17 @@ DS_AI_Internship/
     │   └── Hello.py
     ├── Day 2/
     │   └── day2fundamentals.py
-    ├──Day 3/
-    |     └── day3fundamentals.py
-    ├──Day 4/
-    |    └── day4_pythonfundamentals.py
-    ├──Day 5/
-    |    └── day5_pythonfundamentals.py
-    ├──Day 6/
-    |   └── day6_pythonfundamentals.py
-    ├──Day 7/
-    |   └── day7_pythonfundamentals.py
-    └──Day 8/
+    ├── Day 3/
+    │   └── day3fundamentals.py
+    ├── Day 4/
+    │   └── day4_pythonfundamentals.py
+    ├── Day 5/
+    │   └── day5_pythonfundamentals.py
+    ├── Day 6/
+    │   └── day6_pythonfundamentals.py
+    ├── Day 7/
+    │   └── day7_pythonfundamentals.py
+    └── Day 8/
         └── day8_pythonfundamentals.py
 
 ```
