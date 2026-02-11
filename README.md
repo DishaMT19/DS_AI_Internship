@@ -225,7 +225,7 @@ DS_AI_Internship/
 | Function and Moduels with Specfic Task  | 6  | `day6_pythonfundamentals.py`|
 | File Handling  | 7 | `day7_pythonfundamentals.py`|
 | Numpy   | 8  |  `day8_pythonfundamentals.py` |
-
+| Pandas   | 9  |  `day9_pythonfundamentals.py` |
 ---
 
 ### 🎯 Learning Outcomes
