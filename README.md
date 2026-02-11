@@ -23,8 +23,10 @@ DS_AI_Internship/
     │   └── day6_pythonfundamentals.py
     ├── Day 7/
     │   └── day7_pythonfundamentals.py
-    └── Day 8/
-        └── day8_pythonfundamentals.py
+    ├── Day 8/
+    |   └── day8_pythonfundamentals.py
+    └── Day 9/
+        └── day9_pythonfundamentals.py
 
 ```
 
@@ -151,6 +153,27 @@ DS_AI_Internship/
 
 ---
 
+## 📅 Day 9: Pandas Series – Indexing, Filtering & Data Cleaning
+
+**File:**  
+- `src/Day 9/day9_pandas_series.py`
+
+**Topics Covered:**
+- Introduction to Pandas Series as a one-dimensional labeled data structure
+- Series creation using default and custom indexing
+- Indexing and selection techniques (label-based and position-based access)
+- Boolean masking for conditional data filtering
+- Handling missing data using `dropna()` and `fillna()`
+- Representation and detection of missing values (`NaN`)
+- Vectorized string operations using the `.str` accessor
+- Data preparation techniques for analysis and Machine Learning preprocessing
+
+**Assignments Completed:**
+- Task 1: The Product Catalog (Series Creation & Indexing)
+- Task 2: The Grade Filter (Boolean Masking & Missing Data)
+- Task 3: The Username Formatter (Vectorized String Operations)
+----
+
 ### 🔑 Key Concepts Covered
 
 - Development environment setup and tool configuration  
@@ -174,6 +197,14 @@ DS_AI_Internship/
 - Array reshaping, stacking, and transposing  
 - Statistical operations for data normalization  
 - Preparing data with correct dimensions for machine learning models
+-  One-dimensional labeled data structures
+- Default and custom indexing in Pandas Series
+- Label-based (`loc`) and position-based (`iloc`) selection
+- Boolean filtering and conditional selection
+- Missing value representation (`NaN`)
+- Data cleaning using `dropna()` and `fillna()`
+- Vectorized operations and `.str` accessor methods
+
 
   
  
@@ -225,12 +256,18 @@ DS_AI_Internship/
 - ✅ Reshaping, stacking, and transposing NumPy arrays  
 - ✅ Applying statistical functions for data normalization  
 - ✅ Preparing data with correct dimensions for machine learning models  
+- ✅ Gained the ability to create and manipulate Pandas Series with meaningful index labels
+- ✅ Understood indexing and selection mechanisms for efficient data access
+- ✅ Applied boolean masking to filter datasets based on logical conditions
+- ✅ Identified, removed, and imputed missing values in real-world data
+- ✅ Performed vectorized string operations for efficient data cleaning
+- ✅ Developed foundational skills required for data analysis and ML preprocessing
 
 
 ---
 
 
-### 📘 Overall Learning Summary (Day 1 – Day 8)
+### 📘 Overall Learning Summary (Day 1 – Day 9)
 
 - Gained familiarity with the development environment through system orientation, tool awareness, and workflow setup.
 - Installed and verified Python, configured VS Code and Anaconda, and established a structured development setup.
@@ -260,6 +297,14 @@ DS_AI_Internship/
 - Applied statistical functions such as mean calculation for data analysis and normalization.
 - Prepared structured data suitable for machine learning and deep learning models.
 - Understood the importance of correct data dimensions for image processing and neural network architectures such as CNNs.
+- Developed a strong foundation in Python programming, including variables, data types, operators, and input/output operations.
+- Understood control flow constructs such as conditional statements and looping mechanisms.
+- Acquired practical experience with functions, modular programming, and code reusability.
+- Learned file and directory handling concepts along with basic automation using scripts.
+- Explored core data structures including lists, tuples, sets, and dictionaries with real-world examples.
+- Gained hands-on experience with NumPy for numerical computing, array operations, broadcasting, reshaping, and statistical computations.
+- Applied vectorized operations to improve computational efficiency and code performance.
+- Built a foundational understanding of data preparation techniques relevant to data analysis and Machine Learning workflows.
 
 
 ---
@@ -270,5 +315,5 @@ Disha M T
 
 ## Last Updated
 
-February 10, 2026
+February 11, 2026
 
