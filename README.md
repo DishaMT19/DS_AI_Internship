@@ -25,8 +25,10 @@ DS_AI_Internship/
     │   └── day7_pythonfundamentals.py
     ├── Day 8/
     |   └── day8_pythonfundamentals.py
-    └── Day 9/
-        └── day9_pythonfundamentals.py
+    ├──  Day 9/
+    |    └── day9_pythonfundamentals.py
+    └── Day 10/
+        └── day10_pythonfundamentals.py
 
 ```
 
@@ -174,6 +176,27 @@ DS_AI_Internship/
 - Task 3: The Username Formatter (Vectorized String Operations)
 ----
 
+## 📅 Day 10: Data Cleaning – Missing Values, Duplicates & Validation
+
+**File:**  
+- `src/Day 10/day10_data_cleaning.py`
+
+**Topics Covered:**
+- Understanding dirty data and common data quality issues
+- Identification and handling of missing values in datasets
+- Detection and removal of duplicate records
+- Data type conversion for numerical and categorical fields
+- String cleaning techniques for consistent data representation
+- Final data validation to ensure data integrity and reliability
+- Preparing clean datasets for analysis and Machine Learning workflows
+
+**Assignments Completed:**
+- Task 1: The Integrity Audit (Missing Values & Duplicates)
+- Task 2: The Type Fixer (Data Type Conversion)
+- Task 3: The Categorical Standardizer (String Cleaning)
+
+---
+
 ### 🔑 Key Concepts Covered
 
 - Development environment setup and tool configuration  
@@ -204,6 +227,13 @@ DS_AI_Internship/
 - Missing value representation (`NaN`)
 - Data cleaning using `dropna()` and `fillna()`
 - Vectorized operations and `.str` accessor methods
+- Dirty data and data quality challenges
+- Missing value identification and handling
+- Duplicate detection and removal
+- Data type conversion techniques
+- String cleaning and categorical standardization
+- Data validation and integrity checks
+- End-to-end data cleaning pipeline
 
 
   
@@ -226,6 +256,7 @@ DS_AI_Internship/
 | File Handling  | 7 | `day7_pythonfundamentals.py`|
 | Numpy   | 8  |  `day8_pythonfundamentals.py` |
 | Pandas   | 9  |  `day9_pythonfundamentals.py` |
+| Data Cleaning | 10 | `day10_pythonfundamentals.py` |
 ---
 
 ### 🎯 Learning Outcomes
@@ -262,6 +293,13 @@ DS_AI_Internship/
 - ✅ Identified, removed, and imputed missing values in real-world data
 - ✅ Performed vectorized string operations for efficient data cleaning
 - ✅ Developed foundational skills required for data analysis and ML preprocessing
+- ✅ Gained the ability to identify and handle dirty data in structured datasets.
+- ✅ Understood methods for detecting and resolving missing values.
+- ✅ Applied duplicate data detection and removal techniques.
+- ✅ Converted data types to appropriate formats for analysis and computation.
+- ✅ Cleaned and standardized categorical string data.
+- ✅ Ensured final dataset integrity through validation checks.
+- ✅ Prepared high-quality datasets suitable for data analysis and Machine Learning workflows.
 
 
 ---
@@ -305,6 +343,12 @@ DS_AI_Internship/
 - Gained hands-on experience with NumPy for numerical computing, array operations, broadcasting, reshaping, and statistical computations.
 - Applied vectorized operations to improve computational efficiency and code performance.
 - Built a foundational understanding of data preparation techniques relevant to data analysis and Machine Learning workflows.
+- Developed a clear understanding of data quality issues commonly found in real-world datasets, including missing values, duplicates, and inconsistent data types.
+- Learned systematic approaches to identify, analyze, and resolve missing data to improve dataset reliability.
+- Applied techniques to detect and remove duplicate records, ensuring data integrity and accuracy.
+- Performed data type conversions to transform raw data into analysis-ready formats.
+- Implemented string cleaning and standardization techniques to ensure consistency in categorical data.
+- Validated cleaned datasets to confirm correctness before analysis and machine learning usage.
 
 
 ---
