@@ -27,8 +27,11 @@ DS_AI_Internship/
     |   └── day8_pythonfundamentals.py
     ├──  Day 9/
     |    └── day9_pythonfundamentals.py
-    └── Day 10/
-        └── day10_pythonfundamentals.py
+    ├── Day 10/
+    |    └── day10_pythonfundamentals.py
+    └── Day 11/
+        └── day11_pythonfundamentals.py
+  
 
 ```
 
@@ -197,6 +200,25 @@ DS_AI_Internship/
 
 ---
 
+# 📅 Day 11: Data Visualization – Matplotlib & Plot Customization
+
+**File:**  
+- `src/Day 11/day11_data_visualization.py`
+
+**Topics Covered:**
+- Introduction to Matplotlib and basic plotting workflow
+- Creating Line Plots for trend analysis
+- Building Scatter Plots to analyze relationships between variables
+- Designing Bar Charts for categorical data comparison
+- Customizing plots (titles, labels, legends, colors, gridlines)
+- Working with multiple plots using subplots
+- Improving readability and presentation quality of visualizations
+
+**Assignments Completed:**
+- Task 1: The Trend Tracker (Line Plots)
+
+  ---
+
 ### 🔑 Key Concepts Covered
 
 - Development environment setup and tool configuration  
@@ -234,7 +256,13 @@ DS_AI_Internship/
 - String cleaning and categorical standardization
 - Data validation and integrity checks
 - End-to-end data cleaning pipeline
-
+- Data visualization fundamentals and importance in analysis  
+- Using Matplotlib for graphical representation of data  
+- Line plots for tracking changes over time  
+- Scatter plots for identifying relationships and correlations  
+- Bar charts for categorical data comparison  
+- Plot customization (titles, axis labels, legends, grids)  
+- Creating and managing subplots for multiple visual comparisons  
 
   
  
@@ -257,6 +285,7 @@ DS_AI_Internship/
 | Numpy   | 8  |  `day8_pythonfundamentals.py` |
 | Pandas   | 9  |  `day9_pythonfundamentals.py` |
 | Data Cleaning | 10 | `day10_pythonfundamentals.py` |
+| Data Visulization |11| `day11_pythonfundamentals.py `|
 ---
 
 ### 🎯 Learning Outcomes
@@ -300,8 +329,14 @@ DS_AI_Internship/
 - ✅ Cleaned and standardized categorical string data.
 - ✅ Ensured final dataset integrity through validation checks.
 - ✅ Prepared high-quality datasets suitable for data analysis and Machine Learning workflows.
-
-
+- ✅ Understanding how to visualize data effectively using Matplotlib  
+- ✅ Creating line plots to analyze trends over time  
+- ✅ Using scatter plots to identify relationships between variables  
+- ✅ Designing bar charts for categorical comparisons  
+- ✅ Customizing plots to enhance clarity and presentation quality  
+- ✅ Organizing multiple visualizations using subplots  
+- ✅ Interpreting graphical outputs to support data-driven decisions
+  
 ---
 
 
@@ -349,7 +384,11 @@ DS_AI_Internship/
 - Performed data type conversions to transform raw data into analysis-ready formats.
 - Implemented string cleaning and standardization techniques to ensure consistency in categorical data.
 - Validated cleaned datasets to confirm correctness before analysis and machine learning usage.
-
+- Developed a strong understanding of data visualization principles and their role in data analysis.
+- Gained hands-on experience creating line plots, scatter plots, and bar charts using Matplotlib.
+- Learned how to customize visual elements such as titles, labels, legends, and grids for better clarity.
+- Practiced organizing multiple visualizations using subplots for structured data presentation.
+- Improved ability to interpret graphical outputs to extract meaningful insights from datasets.
 
 ---
 
