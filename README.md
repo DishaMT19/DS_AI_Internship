@@ -343,6 +343,7 @@ DS_AI_Internship/
 | Data Cleaning | 10 | `day10_pythonfundamentals.py` |
 | Data Visulization |11| `day11_pythonfundamentals.py `|
 |  Data Visulization with Specfic task | 12 |  ` day12_pythonfundmentals.py`|
+|  Exploratory Data Analysis (EDA)  |13 |  1day13_pythonfundmentals.py `|
 ---
 
 ### 🎯 Learning Outcomes
