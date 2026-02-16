@@ -31,6 +31,8 @@ DS_AI_Internship/
     |    └── day10_pythonfundamentals.py
     ├── Day 11/
     |   └── day11_pythonfundamentals.py
+    ├── Day 12/
+    |   └── day12_pythonfundamentals.py
     └── Day 12/
         └── day12_pythonfundamentals.py
 
@@ -241,6 +243,26 @@ DS_AI_Internship/
 
   ---
 
+  # 📅 Day 13: Exploratory Data Analysis (EDA) – Patterns, Relationships & Insights
+
+**File:**  
+- `src/Day 13/day13_exploratory_data_analysis.py`
+
+**Topics Covered:**
+- Introduction to Exploratory Data Analysis (EDA) and its role in data workflows
+- Univariate Analysis for understanding single-variable distributions
+- Bivariate Analysis for examining relationships between two variables
+- Correlation analysis to measure strength and direction of relationships
+- Outlier detection techniques to identify unusual data points
+- Interpreting patterns to generate meaningful analytical insights
+
+**Assignments Completed:**
+- Task 1: The Distribution Deep-Dive (Univariate Analysis)
+- Task 2: The Relationship Map (Bivariate Analysis)
+- Task 3: The Pattern Finder (Correlation & Outliers)
+
+  ---
+
 ### 🔑 Key Concepts Covered
 
 - Development environment setup and tool configuration  
@@ -290,7 +312,13 @@ DS_AI_Internship/
 - Comparative analysis using bar charts  
 - Combining multiple charts using subplots  
 - Layout adjustment and dashboard-style visualization design  
-- Improving readability with titles, labels, and legends  
+- Improving readability with titles, labels, and legends
+- Purpose and importance of Exploratory Data Analysis (EDA)  
+- Statistical summaries for understanding data distribution  
+- Visualization techniques for univariate analysis  
+- Identifying relationships using bivariate analysis  
+- Correlation measurement and interpretation  
+- Detecting and handling outliers in datasets  
 
   
  
@@ -370,7 +398,13 @@ DS_AI_Internship/
 - ✅ Built structured comparison dashboards using bar charts  
 - ✅ Organized multiple visualizations effectively using subplots  
 - ✅ Enhanced presentation quality through proper labeling and formatting  
-- ✅ Improved analytical thinking through visual data interpretation  
+- ✅ Improved analytical thinking through visual data interpretation
+- ✅ Understanding the importance of EDA before advanced analysis or modeling  
+- ✅ Performing univariate analysis to examine data distribution and variability  
+- ✅ Conducting bivariate analysis to explore relationships between variables  
+- ✅ Measuring and interpreting correlation values  
+- ✅ Identifying outliers and understanding their impact on analysis  
+- ✅ Developing analytical thinking through pattern recognition  
   
 ---
 
@@ -429,6 +463,12 @@ DS_AI_Internship/
 - Built comparison dashboards using bar charts and subplots for multi-metric analysis.
 - Improved ability to design clean, readable, and professional visual outputs.
 - Strengthened confidence in interpreting and presenting data-driven insights.
+- Built a strong foundation in Exploratory Data Analysis as a critical step in data workflows.
+- Analyzed individual variables to understand distribution, spread, and central tendency.
+- Explored relationships between variables using bivariate analysis techniques.
+- Applied correlation analysis to quantify relationships and detect meaningful patterns.
+- Identified outliers and evaluated their influence on overall dataset behavior.
+- Strengthened ability to extract actionable insights from raw data.
 
 ---
 
