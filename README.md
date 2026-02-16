@@ -29,8 +29,11 @@ DS_AI_Internship/
     |    └── day9_pythonfundamentals.py
     ├── Day 10/
     |    └── day10_pythonfundamentals.py
-    └── Day 11/
-        └── day11_pythonfundamentals.py
+    ├── Day 11/
+    |   └── day11_pythonfundamentals.py
+    └── Day 12/
+        └── day12_pythonfundamentals.py
+
   
 
 ```
@@ -219,6 +222,25 @@ DS_AI_Internship/
 
   ---
 
+  # 📅 Day 12: Take-Home Tasks – Advanced Visualization Practice
+
+**File:**  
+- `src/Day 12/day12_take_home_tasks.py`
+
+**Topics Covered:**
+- Practical implementation of scatter plots for correlation analysis
+- Identifying positive, negative, and no-correlation patterns
+- Creating bar charts for comparative analysis
+- Designing dashboards using multiple subplots
+- Structuring visual outputs for better analytical storytelling
+- Enhancing visualization clarity with proper labeling and layout adjustments
+
+**Assignments Completed:**
+- Task 1: Correlation Checker (Scatter Plots)
+- Task 2: The Comparison Dashboard (Bar Charts & Subplots)
+
+  ---
+
 ### 🔑 Key Concepts Covered
 
 - Development environment setup and tool configuration  
@@ -262,7 +284,13 @@ DS_AI_Internship/
 - Scatter plots for identifying relationships and correlations  
 - Bar charts for categorical data comparison  
 - Plot customization (titles, axis labels, legends, grids)  
-- Creating and managing subplots for multiple visual comparisons  
+- Creating and managing subplots for multiple visual comparisons
+- Correlation analysis using scatter plots  
+- Visual interpretation of relationships between variables  
+- Comparative analysis using bar charts  
+- Combining multiple charts using subplots  
+- Layout adjustment and dashboard-style visualization design  
+- Improving readability with titles, labels, and legends  
 
   
  
@@ -286,6 +314,7 @@ DS_AI_Internship/
 | Pandas   | 9  |  `day9_pythonfundamentals.py` |
 | Data Cleaning | 10 | `day10_pythonfundamentals.py` |
 | Data Visulization |11| `day11_pythonfundamentals.py `|
+|  Data Visulization with Specfic task | 12 |  ` day12_pythonfundmentals.py`|
 ---
 
 ### 🎯 Learning Outcomes
@@ -336,6 +365,12 @@ DS_AI_Internship/
 - ✅ Customizing plots to enhance clarity and presentation quality  
 - ✅ Organizing multiple visualizations using subplots  
 - ✅ Interpreting graphical outputs to support data-driven decisions
+- ✅ Strengthened understanding of correlation through scatter plot analysis  
+- ✅ Identified trends and relationships between datasets visually  
+- ✅ Built structured comparison dashboards using bar charts  
+- ✅ Organized multiple visualizations effectively using subplots  
+- ✅ Enhanced presentation quality through proper labeling and formatting  
+- ✅ Improved analytical thinking through visual data interpretation  
   
 ---
 
@@ -389,6 +424,11 @@ DS_AI_Internship/
 - Learned how to customize visual elements such as titles, labels, legends, and grids for better clarity.
 - Practiced organizing multiple visualizations using subplots for structured data presentation.
 - Improved ability to interpret graphical outputs to extract meaningful insights from datasets.
+- Applied visualization concepts to real-world analytical tasks through structured assignments.
+- Developed deeper insight into correlation analysis using scatter plots.
+- Built comparison dashboards using bar charts and subplots for multi-metric analysis.
+- Improved ability to design clean, readable, and professional visual outputs.
+- Strengthened confidence in interpreting and presenting data-driven insights.
 
 ---
 
@@ -398,5 +438,5 @@ Disha M T
 
 ## Last Updated
 
-February 13, 2026
+February 16, 2026
 
