@@ -6,37 +6,82 @@ This repository contains fundamental Python programming concepts covered during 
 
 ```
 DS_AI_Internship/
-├── README.md
+|
 ├── day3fundamentals.py
-└── src/
-    ├── Day 1/
-    │   └── Hello.py
-    ├── Day 2/
-    │   └── day2fundamentals.py
-    ├── Day 3/
-    │   └── day3fundamentals.py
-    ├── Day 4/
-    │   └── day4_pythonfundamentals.py
-    ├── Day 5/
-    │   └── day5_pythonfundamentals.py
-    ├── Day 6/
-    │   └── day6_pythonfundamentals.py
-    ├── Day 7/
-    │   └── day7_pythonfundamentals.py
-    ├── Day 8/
-    |   └── day8_pythonfundamentals.py
-    ├──  Day 9/
-    |    └── day9_pythonfundamentals.py
-    ├── Day 10/
-    |    └── day10_pythonfundamentals.py
-    ├── Day 11/
-    |   └── day11_pythonfundamentals.py
-    ├── Day 12/
-    |   └── day12_pythonfundamentals.py
-    ├── Day 13/
-    |    └── day13_pythonfundamentals.py
-    └── Day 14/
-        └── day14_pythonfundamentals.py
+src/
+│
+├── Day 1/
+│   ├── Hello.py
+│   └── version_check.py
+│
+├── Day 2/
+│   └── day2_python_fundamentals.py
+│
+├── Day 3/
+│   └── day3_python_fundamentals.py
+│
+├── Day 4/
+│   └── day4_python_fundamentals.py
+│
+├── Day 5/
+│   ├── day5_pythonfundamentals.py
+│   ├── main.py
+│   ├── math_operations.py
+│   └── utils.py
+│
+├── Day 6/
+│   ├── day6_pythonfundamentals.py
+│   ├── main.py
+│   ├── math_operations.py
+│   └── utils.py
+│
+├── Day 7/
+│   ├── day7_pythonfundamentals.py
+│   ├── text_file_demo.py
+│   ├── journal.txt
+│   ├── sample.txt
+│   ├── data.csv
+│   ├── students.csv
+│   └── Info.xlsx
+│
+├── Day 8/
+│   ├── day8_pythonfundamentals.py
+│   ├── Day8_Task1.py
+│   └── Day8_Task2.py
+│
+├── Day 9/
+│   ├── Hello.py
+│   └── day2_python_fundamentals.py
+│
+├── Day 10/
+│   ├── day10_pythonfundamentals.py
+│   ├── day10task1.py
+│   ├── day10task2.py
+│   ├── day10task3.py
+│   ├── cleaned_customer_data.csv
+│   ├── customer_orders.csv
+│   ├── location_dirty_data.csv
+│   └── sample_price_data.csv
+│
+├── Day 11/
+│   ├── day11_pythonfundamentals.py
+│   └── day11_Task1.py
+│
+├── Day 12/
+│   ├── day12_pythonfundamentals.py
+│   └── dashboard.py
+│
+├── Day 13/
+│   └── day13_pythonfundamentals.py
+│
+├── Day 14/
+│   ├── day14_pythonfundamentals.py
+│   ├── day14_pythontask1.py
+│   ├── day14_pythontask2.py
+│   └── day14_pythontask3.py
+│
+└── README.md
+
 
   
 
