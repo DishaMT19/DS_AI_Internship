@@ -33,8 +33,10 @@ DS_AI_Internship/
     |   └── day11_pythonfundamentals.py
     ├── Day 12/
     |   └── day12_pythonfundamentals.py
-    └── Day 12/
-        └── day12_pythonfundamentals.py
+    ├── Day 13/
+    |    └── day13_pythonfundamentals.py
+    └── Day 14/
+        └── day14_pythonfundamentals.py
 
   
 
@@ -263,6 +265,26 @@ DS_AI_Internship/
 
   ---
 
+  # 📅 Day 14: Feature Engineering – Encoding, Scaling & Complexity
+
+**File:**  
+- `src/Day 14/day14_feature_engineering.py`
+
+**Topics Covered:**
+- Introduction to Feature Engineering and its importance in Machine Learning
+- Label Encoding for converting categorical variables into numeric form
+- One-Hot Encoding for handling nominal categorical features
+- Feature Scaling techniques (Standardization & Normalization)
+- Polynomial Features for modeling non-linear relationships
+- Understanding the impact of engineered features on model performance
+
+**Assignments Completed:**
+- Task 1: The Categorical Converter (Encoding)
+- Task 2: The Leveling Field (Feature Scaling)
+- Task 3: The Complexity Creator (Polynomial Features)
+
+  ---
+
 ### 🔑 Key Concepts Covered
 
 - Development environment setup and tool configuration  
@@ -318,7 +340,13 @@ DS_AI_Internship/
 - Visualization techniques for univariate analysis  
 - Identifying relationships using bivariate analysis  
 - Correlation measurement and interpretation  
-- Detecting and handling outliers in datasets  
+- Detecting and handling outliers in datasets
+- Role of feature engineering in improving model accuracy  
+- Differences between Label Encoding and One-Hot Encoding  
+- When to use encoding techniques for categorical data  
+- Importance of feature scaling for gradient-based algorithms  
+- Generating polynomial features to capture non-linear patterns  
+- Evaluating performance impact after feature transformation    
 
   
  
@@ -344,6 +372,7 @@ DS_AI_Internship/
 | Data Visulization |11| `day11_pythonfundamentals.py `|
 |  Data Visulization with Specfic task | 12 |  ` day12_pythonfundmentals.py`|
 |  Exploratory Data Analysis (EDA)  |13 |  1day13_pythonfundmentals.py `|
+| Feature Engineering   |14 |  1day14_pythonfundmentals.py `|
 ---
 
 ### 🎯 Learning Outcomes
@@ -405,12 +434,18 @@ DS_AI_Internship/
 - ✅ Conducting bivariate analysis to explore relationships between variables  
 - ✅ Measuring and interpreting correlation values  
 - ✅ Identifying outliers and understanding their impact on analysis  
-- ✅ Developing analytical thinking through pattern recognition  
+- ✅ Developing analytical thinking through pattern recognition
+- ✅ Understanding how feature engineering enhances model performance  
+- ✅ Applying Label Encoding and One-Hot Encoding appropriately  
+- ✅ Scaling numerical features to ensure uniform model learning  
+- ✅ Creating polynomial features to model non-linear relationships  
+- ✅ Recognizing how transformed features influence training speed and accuracy  
+- ✅ Strengthening preprocessing skills for real-world Machine Learning workflows  
   
 ---
 
 
-### 📘 Overall Learning Summary (Day 1 – Day 9)
+### 📘 Overall Learning Summary (Day 1 – Day 14)
 
 - Gained familiarity with the development environment through system orientation, tool awareness, and workflow setup.
 - Installed and verified Python, configured VS Code and Anaconda, and established a structured development setup.
@@ -470,6 +505,12 @@ DS_AI_Internship/
 - Applied correlation analysis to quantify relationships and detect meaningful patterns.
 - Identified outliers and evaluated their influence on overall dataset behavior.
 - Strengthened ability to extract actionable insights from raw data.
+- Developed a clear understanding of feature engineering as a crucial preprocessing step.
+- Converted categorical data into machine-readable numerical formats using encoding techniques.
+- Applied feature scaling to improve convergence speed and model stability.
+- Generated polynomial features to capture complex, non-linear patterns.
+- Evaluated how engineered features directly impact model performance and efficiency.
+- Strengthened readiness for building optimized and high-performing Machine Learning models.
 
 ---
 
@@ -479,5 +520,5 @@ Disha M T
 
 ## Last Updated
 
-February 16, 2026
+February 17, 2026
 
