@@ -79,6 +79,10 @@ src/
 │   ├── day14_pythontask1.py
 │   ├── day14_pythontask2.py
 │   └── day14_pythontask3.py
+├── Day 15/
+│   ├── day15_pythontask1.py
+│   ├── day15_pythontask2.py
+│   └── day15_pythontask3.py
 │
 └── README.md
 
@@ -330,6 +334,25 @@ src/
 
   ---
 
+# 📅 Day 15: Statistics – Probability Foundations & Bayesian Thinking
+
+**File:**  
+- `src/Day 15/day15_probability_statistics.py`
+
+**Topics Covered:**
+- Fundamentals of Probability and sample space concepts
+- Calculating probabilities of simple events
+- Understanding Independent and Dependent Events
+- Conditional Probability and real-world interpretation
+- Bayes’ Theorem for updating probabilities based on new evidence
+- Logical reasoning using probability rules and formulas
+
+**Assignments Completed:**
+- Task 1: The Sample Space Map (Fundamentals)
+- Task 2: The Logic of Dependency (Independent vs. Dependent)
+- Task 3: The Bayesian Filter (Conditional Probability & Bayes’ Theorem)
+
+  ---
 ### 🔑 Key Concepts Covered
 
 - Development environment setup and tool configuration  
@@ -391,7 +414,13 @@ src/
 - When to use encoding techniques for categorical data  
 - Importance of feature scaling for gradient-based algorithms  
 - Generating polynomial features to capture non-linear patterns  
-- Evaluating performance impact after feature transformation    
+- Evaluating performance impact after feature transformation
+- Definition and calculation of probability  
+- Sample space and event representation  
+- Difference between independent and dependent events  
+- Conditional probability formula and interpretation  
+- Bayes’ Theorem and posterior probability calculation  
+- Applying probability rules to real-world problem scenarios    
 
   
  
@@ -416,8 +445,9 @@ src/
 | Data Cleaning | 10 | `day10_pythonfundamentals.py` |
 | Data Visulization |11| `day11_pythonfundamentals.py `|
 |  Data Visulization with Specfic task | 12 |  ` day12_pythonfundmentals.py`|
-|  Exploratory Data Analysis (EDA)  |13 |  1day13_pythonfundmentals.py `|
-| Feature Engineering   |14 |  1day14_pythonfundmentals.py `|
+|  Exploratory Data Analysis (EDA)  |13 |  `day13_pythonfundmentals.py `|
+| Feature Engineering   |14 |  `day14_pythonfundmentals.py `|
+|  Statistics: Probability | 15  |  ` day15_pythontasks.py`|
 ---
 
 ### 🎯 Learning Outcomes
@@ -485,12 +515,18 @@ src/
 - ✅ Scaling numerical features to ensure uniform model learning  
 - ✅ Creating polynomial features to model non-linear relationships  
 - ✅ Recognizing how transformed features influence training speed and accuracy  
-- ✅ Strengthening preprocessing skills for real-world Machine Learning workflows  
+- ✅ Strengthening preprocessing skills for real-world Machine Learning workflows
+- ✅ Understanding fundamental probability concepts and terminology  
+- ✅ Constructing and analyzing sample spaces for experiments  
+- ✅ Differentiating between independent and dependent events  
+- ✅ Applying conditional probability in practical problems  
+- ✅ Using Bayes’ Theorem to update beliefs with new evidence  
+- ✅ Strengthening logical and analytical reasoning skills  
   
 ---
 
 
-### 📘 Overall Learning Summary (Day 1 – Day 14)
+### 📘 Overall Learning Summary (Day 1 – Day 15)
 
 - Gained familiarity with the development environment through system orientation, tool awareness, and workflow setup.
 - Installed and verified Python, configured VS Code and Anaconda, and established a structured development setup.
@@ -556,6 +592,11 @@ src/
 - Generated polynomial features to capture complex, non-linear patterns.
 - Evaluated how engineered features directly impact model performance and efficiency.
 - Strengthened readiness for building optimized and high-performing Machine Learning models.
+- Built a solid foundation in probability theory and its practical applications.
+- Developed clarity in distinguishing independent and dependent events.
+- Applied conditional probability concepts to structured problem-solving scenarios.
+- Understood and implemented Bayes’ Theorem for evidence-based probability updates.
+- Enhanced analytical thinking by connecting probability theory to real-world decision-making.
 
 ---
 
@@ -565,5 +606,5 @@ Disha M T
 
 ## Last Updated
 
-February 17, 2026
+February 18, 2026
 
