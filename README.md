@@ -200,7 +200,7 @@ src/
   ## 📅 Day 8: NumPy – Arrays, Broadcasting & Reshaping
 
 **File:**  
-- `src/Day 8/day8_numpy.py`
+- `src/Day 8/day8_pythonfundamentals.py`
 
 **Topics Covered:**
 - NumPy Array Creation using `np.array()` and `np.arange()`
@@ -217,7 +217,7 @@ src/
 ## 📅 Day 9: Pandas Series – Indexing, Filtering & Data Cleaning
 
 **File:**  
-- `src/Day 9/day9_pandas_series.py`
+- `src/Day 9/day9_pythonfundamentals.py`
 
 **Topics Covered:**
 - Introduction to Pandas Series as a one-dimensional labeled data structure
@@ -238,7 +238,7 @@ src/
 ## 📅 Day 10: Data Cleaning – Missing Values, Duplicates & Validation
 
 **File:**  
-- `src/Day 10/day10_data_cleaning.py`
+- `src/Day 10/day10_pythonfundamentals.py`
 
 **Topics Covered:**
 - Understanding dirty data and common data quality issues
@@ -259,7 +259,7 @@ src/
 # 📅 Day 11: Data Visualization – Matplotlib & Plot Customization
 
 **File:**  
-- `src/Day 11/day11_data_visualization.py`
+- `src/Day 11/day11_pythonfundamentals.py`
 
 **Topics Covered:**
 - Introduction to Matplotlib and basic plotting workflow
@@ -278,7 +278,7 @@ src/
   # 📅 Day 12: Take-Home Tasks – Advanced Visualization Practice
 
 **File:**  
-- `src/Day 12/day12_take_home_tasks.py`
+- `src/Day 12/day12_pythonfundamentals.py`
 
 **Topics Covered:**
 - Practical implementation of scatter plots for correlation analysis
@@ -297,7 +297,7 @@ src/
   # 📅 Day 13: Exploratory Data Analysis (EDA) – Patterns, Relationships & Insights
 
 **File:**  
-- `src/Day 13/day13_exploratory_data_analysis.py`
+- `src/Day 13/day13_pythonfundamentals.py`
 
 **Topics Covered:**
 - Introduction to Exploratory Data Analysis (EDA) and its role in data workflows
@@ -317,7 +317,7 @@ src/
   # 📅 Day 14: Feature Engineering – Encoding, Scaling & Complexity
 
 **File:**  
-- `src/Day 14/day14_feature_engineering.py`
+- `src/Day 14/day14_pythonfundamentals.py`
 
 **Topics Covered:**
 - Introduction to Feature Engineering and its importance in Machine Learning
@@ -337,7 +337,7 @@ src/
 # 📅 Day 15: Statistics – Probability Foundations & Bayesian Thinking
 
 **File:**  
-- `src/Day 15/day15_probability_statistics.py`
+- `src/Day 15/day15_pythonfundamentals.py`
 
 **Topics Covered:**
 - Fundamentals of Probability and sample space concepts
