@@ -84,10 +84,13 @@ src/
 │   ├── day15_pythontask2.py
 │   └── day15_pythontask3.py
 │
+├── Day 16/
+|   ├── day16_pythonfundmentals.py
+│   ├── day16_pythontask1.py
+│   ├── day16_pythontask2.py
+│   └── day16_pythontask3.py
+|
 └── README.md
-
-
-  
 
 ```
 
@@ -352,6 +355,26 @@ src/
 - Task 2: The Logic of Dependency (Independent vs. Dependent)
 - Task 3: The Bayesian Filter (Conditional Probability & Bayes’ Theorem)
 
+---
+
+# 📅 Day 16: Statistics – Data Distributions & Sampling Theory
+
+**File:**  
+- `src/Day 16/day16_pythonfundmentals.py`
+
+**Topics Covered:**
+- Understanding different types of data distributions
+- Shape, spread, and central tendency in distributions
+- Z-Scores and data standardization techniques
+- Identifying outliers using standard deviation methods
+- Central Limit Theorem (CLT) and sampling distributions
+- Sampling techniques and their importance in statistical analysis
+
+**Assignments Completed:**
+- Task 1: The Shape Shifter (Visualizing Distributions)
+- Task 2: The Outlier Detective (Z-Scores)
+- Task 3: The Magic of Averages (Central Limit Theorem)
+
   ---
 ### 🔑 Key Concepts Covered
 
@@ -420,7 +443,13 @@ src/
 - Difference between independent and dependent events  
 - Conditional probability formula and interpretation  
 - Bayes’ Theorem and posterior probability calculation  
-- Applying probability rules to real-world problem scenarios    
+- Applying probability rules to real-world problem scenarios
+- Normal distribution and distribution characteristics  
+- Measures of center and variability  
+- Z-Score formula and standardization process  
+- Detecting outliers using statistical thresholds  
+- Central Limit Theorem and sampling distribution of the mean  
+- Different sampling techniques in statistics  
 
   
  
@@ -448,6 +477,7 @@ src/
 |  Exploratory Data Analysis (EDA)  |13 |  `day13_pythonfundmentals.py `|
 | Feature Engineering   |14 |  `day14_pythonfundmentals.py `|
 |  Statistics: Probability | 15  |  ` day15_pythontasks.py`|
+|  Statistics: Distributions | 16 |  ` day16_pythonfundmentals.py`|
 ---
 
 ### 🎯 Learning Outcomes
@@ -521,7 +551,13 @@ src/
 - ✅ Differentiating between independent and dependent events  
 - ✅ Applying conditional probability in practical problems  
 - ✅ Using Bayes’ Theorem to update beliefs with new evidence  
-- ✅ Strengthening logical and analytical reasoning skills  
+- ✅ Strengthening logical and analytical reasoning skills
+- ✅ Understanding various data distribution shapes and patterns  
+- ✅ Calculating and interpreting Z-Scores for standardization  
+- ✅ Detecting and analyzing outliers effectively  
+- ✅ Explaining the Central Limit Theorem and its real-world significance  
+- ✅ Understanding how sampling methods influence data reliability  
+- ✅ Strengthening statistical reasoning for data analysis and Machine Learning  
   
 ---
 
@@ -597,6 +633,11 @@ src/
 - Applied conditional probability concepts to structured problem-solving scenarios.
 - Understood and implemented Bayes’ Theorem for evidence-based probability updates.
 - Enhanced analytical thinking by connecting probability theory to real-world decision-making.
+- Developed a strong understanding of statistical distributions and their properties.
+- Applied Z-Score calculations to standardize data and detect anomalies.
+- Explored the Central Limit Theorem and its importance in inferential statistics.
+- Learned how sampling techniques affect representativeness and reliability.
+- Strengthened statistical foundations necessary for advanced analytics and Machine Learning modeling.
 
 ---
 
@@ -606,5 +647,5 @@ Disha M T
 
 ## Last Updated
 
-February 18, 2026
+February 19, 2026
 
