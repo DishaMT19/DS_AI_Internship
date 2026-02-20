@@ -90,6 +90,10 @@ src/
 │   ├── day16_pythontask2.py
 │   └── day16_pythontask3.py
 |
+|
+├── Day 16/
+|   └── day16_pythonfundmentals.db
+|   
 └── README.md
 
 ```
@@ -376,6 +380,25 @@ src/
 - Task 3: The Magic of Averages (Central Limit Theorem)
 
   ---
+
+  # 📅 Day 17: SQL for Data Science – Queries, Aggregation & Integration
+
+**File:**  
+- `src/Day 17/day17_pythonfundmentals.db`  
+
+
+**Topics Covered:**
+- Introduction to SQL and its role in Data Science
+- Writing basic `SELECT` queries to retrieve data
+- Filtering records using the `WHERE` clause
+- Aggregation using `GROUP BY` with functions like `COUNT`, `SUM`, and `AVG`
+- Performing SQL JOINS to combine multiple tables
+- Integrating SQLite with Python for data analysis workflows
+
+**Assignments Completed:**
+- Task 1: The Database Architect (Table Creation & SELECT)
+
+  ---
 ### 🔑 Key Concepts Covered
 
 - Development environment setup and tool configuration  
@@ -450,7 +473,12 @@ src/
 - Detecting outliers using statistical thresholds  
 - Central Limit Theorem and sampling distribution of the mean  
 - Different sampling techniques in statistics  
-
+- Creating tables and defining schema using SQL  
+- Retrieving data using `SELECT` statements  
+- Applying `WHERE` conditions for targeted filtering  
+- Using aggregate functions with `GROUP BY`  
+- Understanding different types of JOIN operations  
+- Connecting Python with SQLite for executing queries programmatically  
   
  
 ---
@@ -478,6 +506,7 @@ src/
 | Feature Engineering   |14 |  `day14_pythonfundmentals.py `|
 |  Statistics: Probability | 15  |  ` day15_pythontasks.py`|
 |  Statistics: Distributions | 16 |  ` day16_pythonfundmentals.py`|
+|  SQL for Data Science | 17 |  ` day17_pythonfundmentals.db`|
 ---
 
 ### 🎯 Learning Outcomes
@@ -558,11 +587,16 @@ src/
 - ✅ Explaining the Central Limit Theorem and its real-world significance  
 - ✅ Understanding how sampling methods influence data reliability  
 - ✅ Strengthening statistical reasoning for data analysis and Machine Learning  
-  
+- ✅ Understanding the importance of SQL in data-driven applications  
+- ✅ Creating and managing database tables effectively  
+- ✅ Writing optimized `SELECT` queries for data retrieval  
+- ✅ Filtering and aggregating data for analytical insights  
+- ✅ Performing JOIN operations to combine related datasets  
+- ✅ Integrating SQL with Python for automated data processing   
 ---
 
 
-### 📘 Overall Learning Summary (Day 1 – Day 15)
+### 📘 Overall Learning Summary (Day 1 – Day 17)
 
 - Gained familiarity with the development environment through system orientation, tool awareness, and workflow setup.
 - Installed and verified Python, configured VS Code and Anaconda, and established a structured development setup.
@@ -638,6 +672,13 @@ src/
 - Explored the Central Limit Theorem and its importance in inferential statistics.
 - Learned how sampling techniques affect representativeness and reliability.
 - Strengthened statistical foundations necessary for advanced analytics and Machine Learning modeling.
+- Developed a foundational understanding of SQL and its importance in Data Science workflows.
+- Created database tables and structured schemas for organized data storage.
+- Retrieved and filtered data efficiently using `SELECT` and `WHERE` clauses.
+- Applied aggregation techniques with `GROUP BY` to generate summarized insights.
+- Performed JOIN operations to combine related tables into meaningful datasets.
+- Integrated SQLite with Python to automate query execution and data retrieval.
+- Strengthened practical database skills essential for real-world data analysis projects.
 
 ---
 
