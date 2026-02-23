@@ -86,4 +86,3 @@ in_stock=True
 print(f"Item:{item_name}, Price:{item_price}, Qty:{item_qut},Total Price:{price},Available:{in_stock}")
 
 
- 
