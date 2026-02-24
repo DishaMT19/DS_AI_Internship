@@ -359,6 +359,115 @@ DS_AI_Internship/
 
   ---
 
+  # 📅 Day 15: Statistics – Probability Foundations & Bayesian Thinking
+
+**File:**  
+- `src/Day 15/day15_probability_statistics.py`
+
+**Topics Covered:**
+- Fundamentals of Probability and sample space concepts
+- Calculating probabilities of simple events
+- Understanding Independent and Dependent Events
+- Conditional Probability and real-world interpretation
+- Bayes’ Theorem for updating probabilities based on new evidence
+- Logical reasoning using probability rules and formulas
+
+**Assignments Completed:**
+- Task 1: The Sample Space Map (Fundamentals)
+- Task 2: The Logic of Dependency (Independent vs. Dependent)
+- Task 3: The Bayesian Filter (Conditional Probability & Bayes’ Theorem)
+
+  ---
+# 📅 Day 16: Statistics – Data Distributions & Sampling Theory
+
+**File:**  
+- `src/Day 16/day16_statistics_distributions.py`
+
+**Topics Covered:**
+- Understanding different types of data distributions
+- Shape, spread, and central tendency in distributions
+- Z-Scores and data standardization techniques
+- Identifying outliers using standard deviation methods
+- Central Limit Theorem (CLT) and sampling distributions
+- Sampling techniques and their importance in statistical analysis
+
+**Assignments Completed:**
+- Task 1: The Shape Shifter (Visualizing Distributions)
+- Task 2: The Outlier Detective (Z-Scores)
+- Task 3: The Magic of Averages (Central Limit Theorem)
+  ---
+
+# 📅 Day 17: SQL for Data Science – Queries, Aggregation & Integration
+
+**File:**  
+- `src/Day 17/day17_sql_for_data_science.sql`  
+- `src/Day 17/day17_sqlite_integration.py`
+
+**Topics Covered:**
+- Introduction to SQL and its role in Data Science
+- Writing basic `SELECT` queries to retrieve data
+- Filtering records using the `WHERE` clause
+- Aggregation using `GROUP BY` with functions like `COUNT`, `SUM`, and `AVG`
+- Performing SQL JOINS to combine multiple tables
+- Integrating SQLite with Python for data analysis workflows
+
+**Assignments Completed:**
+- Task 1: The Database Architect (Table Creation & SELECT)
+  ---
+# 📅 Day 18: Take-Home Tasks – SQL JOINs & Python Data Integration
+
+**File:**  
+- `src/Day 18/day18_sql_joins_integration.sql`  
+- `src/Day 18/day18_python_sqlite_bridge.ipynb`
+
+**Topics Covered:**
+- Writing advanced filtering queries using `WHERE` and `GROUP BY`
+- Creating and managing multiple related tables (`interns`, `mentors`)
+- Applying INNER JOIN to combine normalized tables
+- Understanding relational database structure and foreign key logic
+- Executing SQL queries using the `sqlite3` library in Python
+- Loading SQL query results into a Pandas DataFrame for analysis
+
+**Assignments Completed:**
+- Task 1: The Insight Filter (WHERE & GROUP BY)
+- Task 2: The Data Connector (JOINs & Python Integration)
+
+  ---
+
+  # 📅 Day 19: Git Advanced – Branching, Merging & Conflict Resolution
+
+**File:**  
+- `src/Day 19/day19_git_workflow_notes.md`
+
+**Topics Covered:**
+- Understanding advanced Git workflows
+- Creating and managing feature branches
+- Merging branches into main/master
+- Handling and resolving merge conflicts
+- Best practices for collaborative development
+- Maintaining clean commit history and version control discipline
+
+**Assignments Completed:**
+- Task 1: The Feature Branch Workflow
+- Task 2: The Conflict Resolver (Merge Conflicts)
+  ---
+# 📅 Day 20: Mini-Project – Exploratory Data Analysis (EDA)
+
+**File:**  
+- `src/Day 20/day20_mini_project_eda.ipynb`
+
+**Topics Covered:**
+- End-to-end Exploratory Data Analysis workflow
+- Data loading, cleaning, and preprocessing
+- Univariate and bivariate analysis
+- Correlation analysis and outlier detection
+- Data visualization for insight generation
+- Drawing meaningful conclusions from real-world datasets
+
+**Project Completed:**
+- Mini-Project Submission: Complete EDA Report
+  ---
+  
 ### 🔑 Key Concepts Covered
 
 - Development environment setup and tool configuration  
@@ -420,34 +529,83 @@ DS_AI_Internship/
 - When to use encoding techniques for categorical data  
 - Importance of feature scaling for gradient-based algorithms  
 - Generating polynomial features to capture non-linear patterns  
-- Evaluating performance impact after feature transformation    
+- Evaluating performance impact after feature transformation
+- Definition and calculation of probability  
+- Sample space and event representation  
+- Difference between independent and dependent events  
+- Conditional probability formula and interpretation  
+- Bayes’ Theorem and posterior probability calculation  
+- Applying probability rules to real-world problem scenarios
+- Normal distribution and distribution characteristics  
+- Measures of center and variability  
+- Z-Score formula and standardization process  
+- Detecting outliers using statistical thresholds  
+- Central Limit Theorem and sampling distribution of the mean  
+- Different sampling techniques in statistics
+- Creating tables and defining schema using SQL  
+- Retrieving data using `SELECT` statements  
+- Applying `WHERE` conditions for targeted filtering  
+- Using aggregate functions with `GROUP BY`  
+- Understanding different types of JOIN operations  
+- Connecting Python with SQLite for executing queries programmatically  
+- Filtering datasets using `WHERE` conditions  
+- Aggregating structured data using `GROUP BY`  
+- Creating relational tables and understanding normalized data  
+- Performing INNER JOIN to combine related datasets  
+- Executing SQL queries from Python using `sqlite3`  
+- Importing SQL results into Pandas for further analysis  
+- Branch creation and switching (`git branch`, `git checkout`, `git switch`)  
+- Isolating features using feature branch workflow  
+- Merging branches using `git merge`  
+- Identifying and resolving merge conflicts  
+- Writing meaningful commit messages  
+- Maintaining structured and collaborative Git workflows  
+- Structured EDA workflow (Problem → Data → Cleaning → Analysis → Insights)  
+- Data quality assessment and preprocessing techniques  
+- Distribution analysis and summary statistics  
+- Relationship mapping using visualizations  
+- Correlation matrix interpretation  
+- Insight-driven storytelling using data
 
   
- 
 ---
 
-### 📘 Internship Progress
+## 📊 Internship Progress 
 
 | Concept | Day | File |
-|-------|-----|------|
+|----------|-----|------|
 | Basic Output | 1 | `Hello.py` |
-| Variables & Types | 2 | `day2fundamentals.py` |
-| Control Flow | 2 | `day2fundamentals.py` |
-| Lists & Tuples | 3 | `day3fundamentals.py` |
-| List Operations | 3 | `day3fundamentals.py` |
-| Dictionaries & Sets | 4 | `day4fundamentals.py` |
-| Dictionary Operations | 4 | `day4fundamentals.py` |
-| Function and Moduels  | 5  | `day5_pythonfundamentals.py`|
-| Function and Moduels with Specfic Task  | 6  | `day6_pythonfundamentals.py`|
-| File Handling  | 7 | `day7_pythonfundamentals.py`|
-| Numpy   | 8  |  `day8_pythonfundamentals.py` |
-| Pandas   | 9  |  `day9_pythonfundamentals.py` |
+| Python Version Check | 1 | `version_check.py` |
+| Variables & Data Types | 2 | `day2_python_fundamentals.py` |
+| Control Flow (if-else, loops) | 2 | `day2_python_fundamentals.py` |
+| Lists & Tuples | 3 | `day3_python_fundamentals.py` |
+| List Operations | 3 | `day3_python_fundamentals.py` |
+| Dictionaries & Sets | 4 | `day4_python_fundamentals.py` |
+| Dictionary Operations | 4 | `day4_python_fundamentals.py` |
+| Functions & Modules | 5 | `day5_pythonfundamentals.py` |
+| Functions with Practical Tasks | 6 | `day6_pythonfundamentals.py` |
+| File Handling | 7 | `day7_pythonfundamentals.py` |
+| Text & CSV Handling | 7 | `text_file_demo.py` |
+| NumPy Fundamentals | 8 | `day8_pythonfundamentals.py` |
+| NumPy Tasks | 8 | `Day8_Task1.py`, `Day8_Task2.py` |
+| Pandas Fundamentals | 9 | `day9_python_fundamentals.py` |
 | Data Cleaning | 10 | `day10_pythonfundamentals.py` |
-| Data Visulization |11| `day11_pythonfundamentals.py `|
-|  Data Visulization with Specfic task | 12 |  ` day12_pythonfundmentals.py`|
-|  Exploratory Data Analysis (EDA)  |13 |  1day13_pythonfundmentals.py `|
-| Feature Engineering   |14 |  1day14_pythonfundmentals.py `|
----
+| Data Cleaning Tasks | 10 | `day10task1.py`, `day10task2.py`, `day10task3.py` |
+| Data Visualization | 11 | `day11_pythonfundamentals.py` |
+| Visualization Tasks | 12 | `day12_pythonfundamentals.py` |
+| Dashboard Implementation | 12 | `dashboard.py` |
+| Exploratory Data Analysis (EDA) | 13 | `day13_pythonfundamentals.py` |
+| Feature Engineering | 14 | `day14_pythonfundamentals.py` |
+| Feature Engineering Tasks | 14 | `day14_pythontask1.py`, `day14_pythontask2.py`, `day14_pythontask3.py` |
+| Advanced Python Tasks | 15 | `day15_pythontask1.py`, `day15_pythontask2.py`, `day15_pythontask3.py` |
+| Advanced Data Handling | 16 | `day16_pythonfundamentals.py` |
+| SQL Joins with Python | 17 | `day17_sql_joins_python.ipynb` |
+| Git Branching Practice | 19 | `merge-demo/` |
+| Mini Project – Customer Analytics EDA | 20 | `MiniProject1_EDA.ipynb` |
+| Mini Project Report | 20 | `Final_Report.pdf` |
+
+
+----
 
 ### 🎯 Learning Outcomes
 
@@ -514,12 +672,48 @@ DS_AI_Internship/
 - ✅ Scaling numerical features to ensure uniform model learning  
 - ✅ Creating polynomial features to model non-linear relationships  
 - ✅ Recognizing how transformed features influence training speed and accuracy  
-- ✅ Strengthening preprocessing skills for real-world Machine Learning workflows  
+- ✅ Strengthening preprocessing skills for real-world Machine Learning workflows
+- ✅ Understanding fundamental probability concepts and terminology  
+- ✅ Constructing and analyzing sample spaces for experiments  
+- ✅ Differentiating between independent and dependent events  
+- ✅ Applying conditional probability in practical problems  
+- ✅ Using Bayes’ Theorem to update beliefs with new evidence  
+- ✅ Strengthening logical and analytical reasoning skills
+- ✅ Understanding various data distribution shapes and patterns  
+- ✅ Calculating and interpreting Z-Scores for standardization  
+- ✅ Detecting and analyzing outliers effectively  
+- ✅ Explaining the Central Limit Theorem and its real-world significance  
+- ✅ Understanding how sampling methods influence data reliability  
+- ✅ Strengthening statistical reasoning for data analysis and Machine Learning
+- ✅ Understanding the importance of SQL in data-driven applications  
+- ✅ Creating and managing database tables effectively  
+- ✅ Writing optimized `SELECT` queries for data retrieval  
+- ✅ Filtering and aggregating data for analytical insights  
+- ✅ Performing JOIN operations to combine related datasets  
+- ✅ Integrating SQL with Python for automated data processing  
+- ✅ Writing structured filtering and aggregation queries  
+- ✅ Understanding how normalized databases store related information  
+- ✅ Performing JOIN operations to connect multiple tables  
+- ✅ Integrating SQLite with Python for seamless data retrieval  
+- ✅ Converting SQL query outputs into Pandas DataFrames  
+- ✅ Strengthening real-world data engineering and analytics workflow skills
+- ✅ Understanding the importance of branching in team development  
+- ✅ Implementing feature branch workflow for organized development  
+- ✅ Successfully merging branches into the main branch  
+- ✅ Detecting and resolving merge conflicts confidently  
+- ✅ Maintaining clean version control practices  
+- ✅ Strengthening collaboration-ready Git skills
+- ✅ Performing complete end-to-end Exploratory Data Analysis  
+- ✅ Cleaning and preparing raw datasets for analysis  
+- ✅ Identifying patterns, trends, and relationships in data  
+- ✅ Detecting outliers and evaluating their impact  
+- ✅ Presenting insights clearly using visualizations  
+- ✅ Developing confidence in handling real-world datasets independently  
   
 ---
 
 
-### 📘 Overall Learning Summary (Day 1 – Day 14)
+### 📘 Overall Learning Summary (Day 1 – Day 20)
 
 - Gained familiarity with the development environment through system orientation, tool awareness, and workflow setup.
 - Installed and verified Python, configured VS Code and Anaconda, and established a structured development setup.
@@ -585,7 +779,40 @@ DS_AI_Internship/
 - Generated polynomial features to capture complex, non-linear patterns.
 - Evaluated how engineered features directly impact model performance and efficiency.
 - Strengthened readiness for building optimized and high-performing Machine Learning models.
-
+- Built a solid foundation in probability theory and its practical applications.
+- Developed clarity in distinguishing independent and dependent events.
+- Applied conditional probability concepts to structured problem-solving scenarios.
+- Understood and implemented Bayes’ Theorem for evidence-based probability updates.
+- Enhanced analytical thinking by connecting probability theory to real-world decision-making.
+- Developed a strong understanding of statistical distributions and their properties.
+- Applied Z-Score calculations to standardize data and detect anomalies.
+- Explored the Central Limit Theorem and its importance in inferential statistics.
+- Learned how sampling techniques affect representativeness and reliability.
+- Strengthened statistical foundations necessary for advanced analytics and Machine Learning modeling.
+- Developed a foundational understanding of SQL and its importance in Data Science workflows.
+- Created database tables and structured schemas for organized data storage.
+- Retrieved and filtered data efficiently using `SELECT` and `WHERE` clauses.
+- Applied aggregation techniques with `GROUP BY` to generate summarized insights.
+- Performed JOIN operations to combine related tables into meaningful datasets.
+- Integrated SQLite with Python to automate query execution and data retrieval.
+- Strengthened practical database skills essential for real-world data analysis projects.
+-- Applied SQL filtering and aggregation techniques to extract meaningful insights.
+- Created relational database structures and connected multiple tables using INNER JOIN.
+- Understood how real-world normalized data systems organize information across tables.
+- Integrated SQLite queries within a Python environment using the `sqlite3` library.
+- Loaded JOIN query results into Pandas for analytical workflows.
+- Strengthened the bridge between database management and data analysis using Python.
+- Developed deeper understanding of Git beyond basic add, commit, and push commands.
+- Practiced working with feature branches to isolate and manage new developments.
+- Gained hands-on experience resolving real merge conflicts.
+- Improved confidence in collaborative workflows and version control strategies.
+- Strengthened professional Git practices essential for team-based software and data projects.
+- Successfully completed a full mini-project applying all previously learned EDA concepts.
+- Followed a structured analytical workflow from data loading to final insights.
+- Applied visualization and statistical techniques to uncover meaningful patterns.
+- Improved ability to communicate data-driven findings clearly and logically.
+- Strengthened practical data analysis skills in preparation for advanced Machine Learning projects.
+  
 ---
 
 ## Author
@@ -594,5 +821,5 @@ Disha M T
 
 ## Last Updated
 
-February 17, 2026
+February 24, 2026
 
