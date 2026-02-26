@@ -81,11 +81,6 @@ src/
 │   ├── day14_pythontask2.py
 │   └── day14_pythontask3.py
 │
-└── README.md
-
-
-=======
-│
 ├── day3fundamentals.py
 │
 ├── src/
@@ -191,7 +186,7 @@ src/
 │
 └── README.md
 
->>>>>>> 6a982284cab49509876fd8847df75c0b7be43e9c
+
   
 
 ```
@@ -550,7 +545,7 @@ src/
 - Mini-Project Submission: Complete EDA Report
   ---
   
->>>>>>> 6a982284cab49509876fd8847df75c0b7be43e9c
+
 ### 🔑 Key Concepts Covered
 
 - Development environment setup and tool configuration  
@@ -659,9 +654,9 @@ src/
 ---
 
 ## 📊 Internship Progress 
-
+````
 | Concept | Day | File |
-<<<<<<< HEAD
+
 |-------|-----|------|
 | Basic Output | 1 | `Hello.py` |
 | Variables & Types | 2 | `day2fundamentals.py` |
@@ -713,9 +708,9 @@ src/
 | Mini Project – Customer Analytics EDA | 20 | `MiniProject1_EDA.ipynb` |
 | Mini Project Report | 20 | `Final_Report.pdf` |
 
-
+````
 ----
->>>>>>> 6a982284cab49509876fd8847df75c0b7be43e9c
+
 
 ### 🎯 Learning Outcomes
 
@@ -782,13 +777,13 @@ src/
 - ✅ Scaling numerical features to ensure uniform model learning  
 - ✅ Creating polynomial features to model non-linear relationships  
 - ✅ Recognizing how transformed features influence training speed and accuracy  
-<<<<<<< HEAD
+
 - ✅ Strengthening preprocessing skills for real-world Machine Learning workflows  
   
 ---
 
 
-### 📘 Overall Learning Summary (Day 1 – Day 14)
+### 📘 Overall Learning Summary (Day 1 – Day 21)
 
 - Gained familiarity with the development environment through system orientation, tool awareness, and workflow setup.
 - Installed and verified Python, configured VS Code and Anaconda, and established a structured development setup.
@@ -1001,16 +996,16 @@ src/
   
 ---
 
->>>>>>> 6a982284cab49509876fd8847df75c0b7be43e9c
+
 ## Author
 
 Disha M T
 
 ## Last Updated
 
-<<<<<<< HEAD
-February 17, 2026
+
+February 26, 2026
 =======
-February 24, 2026
->>>>>>> 6a982284cab49509876fd8847df75c0b7be43e9c
+
+
 
