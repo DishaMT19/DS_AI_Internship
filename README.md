@@ -676,30 +676,11 @@ src/
  
 ---
 
-## 📊 Internship Progress 
+## 📊 Internship Progress
 ````
+
 | Concept | Day | File |
-
-|-------|-----|------|
-| Basic Output | 1 | `Hello.py` |
-| Variables & Types | 2 | `day2fundamentals.py` |
-| Control Flow | 2 | `day2fundamentals.py` |
-| Lists & Tuples | 3 | `day3fundamentals.py` |
-| List Operations | 3 | `day3fundamentals.py` |
-| Dictionaries & Sets | 4 | `day4fundamentals.py` |
-| Dictionary Operations | 4 | `day4fundamentals.py` |
-| Function and Moduels  | 5  | `day5_pythonfundamentals.py`|
-| Function and Moduels with Specfic Task  | 6  | `day6_pythonfundamentals.py`|
-| File Handling  | 7 | `day7_pythonfundamentals.py`|
-| Numpy   | 8  |  `day8_pythonfundamentals.py` |
-| Pandas   | 9  |  `day9_pythonfundamentals.py` |
-| Data Cleaning | 10 | `day10_pythonfundamentals.py` |
-| Data Visulization |11| `day11_pythonfundamentals.py `|
-|  Data Visulization with Specfic task | 12 |  ` day12_pythonfundmentals.py`|
-|  Exploratory Data Analysis (EDA)  |13 |  1day13_pythonfundmentals.py `|
-| Feature Engineering   |14 |  1day14_pythonfundmentals.py `|
-
-|----------|-----|------|
+|---------|-----|------|
 | Basic Output | 1 | `Hello.py` |
 | Python Version Check | 1 | `version_check.py` |
 | Variables & Data Types | 2 | `day2_python_fundamentals.py` |
@@ -725,11 +706,13 @@ src/
 | Feature Engineering Tasks | 14 | `day14_pythontask1.py`, `day14_pythontask2.py`, `day14_pythontask3.py` |
 | Advanced Python Tasks | 15 | `day15_pythontask1.py`, `day15_pythontask2.py`, `day15_pythontask3.py` |
 | Advanced Data Handling | 16 | `day16_pythonfundamentals.py` |
-| SQL Joins with Python | 17 | `day17_sql_joins_python.ipynb` |
-| Git Branching Practice | 19 | `merge-demo/` |
+| SQL Basics & Queries | 17 | `day17_sql_for_data_science.sql` |
+| SQL with Python Integration | 17 | `day17_sqlite_integration.py` |
+| SQL JOINs & Python Integration | 18 | `day18_sql_joins_integration.sql`, `day18_python_sqlite_bridge.ipynb` |
+| Git Branching & Merge Conflicts | 19 | `merge-demo/` |
 | Mini Project – Customer Analytics EDA | 20 | `MiniProject1_EDA.ipynb` |
 | Mini Project Report | 20 | `Final_Report.pdf` |
-
+| Introduction to Machine Learning | 21 | `day21_intro_machine_learning.ipynb` |
 ````
 ----
 
