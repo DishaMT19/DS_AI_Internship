@@ -677,7 +677,7 @@ src/
 ---
 
 ## 📊 Internship Progress
-````
+```
 
 | Concept | Day | File |
 |---------|-----|------|
@@ -713,7 +713,7 @@ src/
 | Mini Project – Customer Analytics EDA | 20 | `MiniProject1_EDA.ipynb` |
 | Mini Project Report | 20 | `Final_Report.pdf` |
 | Introduction to Machine Learning | 21 | `day21_intro_machine_learning.ipynb` |
-````
+```
 ----
 
 
