@@ -676,8 +676,8 @@ src/
  
 ---
 
-## 📊 Internship Progress
-```
+```markdown
+## 📊 Internship Progress  
 
 | Concept | Day | File |
 |---------|-----|------|
@@ -708,12 +708,14 @@ src/
 | Advanced Data Handling | 16 | `day16_pythonfundamentals.py` |
 | SQL Basics & Queries | 17 | `day17_sql_for_data_science.sql` |
 | SQL with Python Integration | 17 | `day17_sqlite_integration.py` |
-| SQL JOINs & Python Integration | 18 | `day18_sql_joins_integration.sql`, `day18_python_sqlite_bridge.ipynb` |
+| SQL Joins & Python Integration | 18 | `day18_sql_joins_integration.sql`, `day18_python_sqlite_bridge.ipynb` |
 | Git Branching & Merge Conflicts | 19 | `merge-demo/` |
 | Mini Project – Customer Analytics EDA | 20 | `MiniProject1_EDA.ipynb` |
 | Mini Project Report | 20 | `Final_Report.pdf` |
 | Introduction to Machine Learning | 21 | `day21_intro_machine_learning.ipynb` |
 ```
+
+
 ----
 
 
