@@ -1,303 +1,272 @@
 # DS AI Internship Project
 
-This repository contains fundamental Python programming concepts covered during a Data Science & AI internship. The project is organized by daily lessons, progressing from basic syntax to data structures and operations.
+This repository contains comprehensive Python programming concepts, data science, and AI topics covered during a Data Science & AI internship. The project is organized by daily lessons, progressing from basic syntax to advanced machine learning techniques.
 
 ## Project Structure
 
 ```
 DS_AI_Internship/
-
-|
-├── day3fundamentals.py
-src/
 │
-├── Day 1/
-│   ├── Hello.py
-│   └── version_check.py
+├── plots.py
+├── README.md
 │
-├── Day 2/
-│   └── day2_python_fundamentals.py
-│
-├── Day 3/
-│   └── day3_python_fundamentals.py
-│
-├── Day 4/
-│   └── day4_python_fundamentals.py
-│
-├── Day 5/
-│   ├── day5_pythonfundamentals.py
-│   ├── main.py
-│   ├── math_operations.py
-│   └── utils.py
-│
-├── Day 6/
-│   ├── day6_pythonfundamentals.py
-│   ├── main.py
-│   ├── math_operations.py
-│   └── utils.py
-│
-├── Day 7/
-│   ├── day7_pythonfundamentals.py
-│   ├── text_file_demo.py
-│   ├── journal.txt
-│   ├── sample.txt
-│   ├── data.csv
-│   ├── students.csv
-│   └── Info.xlsx
-│
-├── Day 8/
-│   ├── day8_pythonfundamentals.py
-│   ├── Day8_Task1.py
-│   └── Day8_Task2.py
-│
-├── Day 9/
-│   ├── Hello.py
-│   └── day2_python_fundamentals.py
-│
-├── Day 10/
-│   ├── day10_pythonfundamentals.py
-│   ├── day10task1.py
-│   ├── day10task2.py
-│   ├── day10task3.py
-│   ├── cleaned_customer_data.csv
-│   ├── customer_orders.csv
-│   ├── location_dirty_data.csv
-│   └── sample_price_data.csv
-│
-├── Day 11/
-│   ├── day11_pythonfundamentals.py
-│   └── day11_Task1.py
-│
-├── Day 12/
-│   ├── day12_pythonfundamentals.py
-│   └── dashboard.py
-│
-├── Day 13/
-│   └── day13_pythonfundamentals.py
-│
-├── Day 14/
-│   ├── day14_pythonfundamentals.py
-│   ├── day14_pythontask1.py
-│   ├── day14_pythontask2.py
-│   └── day14_pythontask3.py
-│
-├── day3fundamentals.py
-│
-├── src/
-│
-│   ├── Day 1/
-│   │   ├── Hello.py
-│   │   └── version_check.py
-│   │
-│   ├── Day 2/
-│   │   └── day2_python_fundamentals.py
-│   │
-│   ├── Day 3/
-│   │   └── day3_python_fundamentals.py
-│   │
-│   ├── Day 4/
-│   │   └── day4_python_fundamentals.py
-│   │
-│   ├── Day 5/
-│   │   ├── day5_pythonfundamentals.py
-│   │   ├── main.py
-│   │   ├── math_operations.py
-│   │   └── utils.py
-│   │
-│   ├── Day 6/
-│   │   ├── day6_pythonfundamentals.py
-│   │   ├── main.py
-│   │   ├── math_operations.py
-│   │   └── utils.py
-│   │
-│   ├── Day 7/
-│   │   ├── day7_pythonfundamentals.py
-│   │   ├── text_file_demo.py
-│   │   ├── journal.txt
-│   │   ├── sample.txt
-│   │   ├── data.csv
-│   │   ├── students.csv
-│   │   └── Info.xlsx
-│   │
-│   ├── Day 8/
-│   │   ├── day8_pythonfundamentals.py
-│   │   ├── Day8_Task1.py
-│   │   └── Day8_Task2.py
-│   │
-│   ├── Day 9/
-│   │   ├── Hello.py
-│   │   └── day2_python_fundamentals.py
-│   │
-│   ├── Day 10/
-│   │   ├── day10_pythonfundamentals.py
-│   │   ├── day10task1.py
-│   │   ├── day10task2.py
-│   │   ├── day10task3.py
-│   │   ├── cleaned_customer_data.csv
-│   │   ├── customer_orders.csv
-│   │   ├── location_dirty_data.csv
-│   │   └── sample_price_data.csv
-│   │
-│   ├── Day 11/
-│   │   ├── day11_pythonfundamentals.py
-│   │   └── day11_Task1.py
-│   │
-│   ├── Day 12/
-│   │   ├── day12_pythonfundamentals.py
-│   │   └── dashboard.py
-│   │
-│   ├── Day 13/
-│   │   └── day13_pythonfundamentals.py
-│   │
-│   ├── Day 14/
-│   │   ├── day14_pythonfundamentals.py
-│   │   ├── day14_pythontask1.py
-│   │   ├── day14_pythontask2.py
-│   │   └── day14_pythontask3.py
-│   │
-│   ├── Day 15/
-│   │   ├── day15_pythontask1.py
-│   │   ├── day15_pythontask2.py
-│   │   └── day15_pythontask3.py
-│   │
-│   ├── Day 16/
-│   │   ├── day16_pythonfundamentals.py
-│   │   ├── day16_pythontask1.py
-│   │   ├── day16_pythontask2.py
-│   │   └── day16_pythontask3.py
-│   │
-│   ├── Day 17/
-│   │   └── day17_sql_joins_python.ipynb
-│   │
-│   ├── Day 19/
-│   │   └── merge-demo/
-│   │
-│   ├── Day_20/
-│   │   ├── .ipynb_checkpoints/
-│   │   │
-│   │   └── MiniProject1/
-│   │       ├── Final_Report.pdf
-│   │       ├── MiniProject1_EDA.ipynb
-│   │       ├── README.md
-│   │       ├── customer_analytics.csv
-│   │       ├── data_summary.txt.txt
-│   │       ├── eda_script.py
-│   │       └── requirements.txt.txt
-│
-└── README.md
-
-
-  
-
+└── src/
+    │
+    ├── Day 1/
+    │   └── Hello.py
+    │
+    ├── Day 2/
+    │   ├── day2_python_fundamentals.py
+    │   └── day2fundamentals.py
+    │
+    ├── Day 3/
+    │   ├── day3_python_fundamentals.py
+    │   └── day3fundamentals.py
+    │
+    ├── Day 4/
+    │   ├── day4_python_fundamentals.py
+    │   └── day4fundamentals.py
+    │
+    ├── Day 5/
+    │   ├── day5_fundamentals.py
+    │   ├── day5_pythonfundamentals.py
+    │   ├── main.py
+    │   ├── math_operations.py
+    │   └── utils.py
+    │
+    ├── Day 6/
+    │   ├── day6_pythonfundamentals.py
+    │   ├── main.py
+    │   ├── math_operations.py
+    │   └── utils.py
+    │
+    ├── Day 7/
+    │   ├── day7_fundamentals.py
+    │   ├── text_file_demo.py
+    │   ├── data.csv
+    │   ├── journal.txt
+    │   ├── sample.txt
+    │   └── students.csv
+    │
+    ├── Day 8/
+    │   ├── day8_pythonfundamentals.py
+    │   ├── Day8_Task1.py
+    │   ├── Day8_Task2.py
+    │   ├── ipython.html
+    │   └── temp.py
+    │
+    ├── Day 9/
+    │   ├── day9_python_fundamentals.py
+    │   ├── day9_task1.py
+    │   ├── day9_task2.py
+    │   └── day9_task3.py
+    │
+    ├── Day 10/
+    │   ├── day10_PythonFundamentals.py
+    │   ├── day10task1.py
+    │   ├── day10task2.py
+    │   ├── day10task3.py
+    │   ├── cleaned_customer_data.csv
+    │   ├── customer_orders.csv
+    │   ├── location_dirty_data.csv
+    │   └── sample_price_data.csv
+    │
+    ├── Day 11/
+    │   ├── day11_pythondundmentals.py
+    │   └── day11_Task1.py
+    │
+    ├── Day 12/
+    │   ├── day12_pythonTask1.py
+    │   └── dashboard.py
+    │
+    ├── Day 13/
+    │   ├── day13_PythonFundmentals.py
+    │   └── day13_PythonFundmentalsTasks.py
+    │
+    ├── Day 14/
+    │   ├── day14_pythonfundmentals.py
+    │   ├── day14_pythontask1.py
+    │   ├── day14_pythontask2.py
+    │   └── day14_pythontask3.py
+    │
+    ├── Day 15/
+    │   ├── day15_pythontask1.py
+    │   ├── day15_pythontask2.py
+    │   └── day15_pythontask3.py
+    │
+    ├── Day 16/
+    │   ├── day16_pythonfundmentals.py
+    │   ├── day16_pythontask1.py
+    │   ├── day16_pythontask2.py
+    │   └── day16_pythontask3.py
+    │
+    ├── Day 17/
+    │   └── day17_sql_joins_python.ipynb
+    │
+    ├── Day 18/
+    │
+    ├── Day 19/
+    │   └── merge-demo/
+    │
+    ├── Day_20/
+    │   ├── generate_pdf.py
+    │   └── anaconda_projects/
+    │       └── MiniProject1/
+    │
+    ├── Day_21/
+    │   ├── Day21_Intro_to_ML.ipynb
+    │   ├── Untitled.ipynb
+    │   └── anaconda_projects/
+    │
+    ├── Day_22/
+    │
+    ├── Day_27/
+    │   ├── day27_pythonfundmentals.ipynb
+    │   ├── day27_task1.ipynb
+    │   ├── day27_task2.ipynb
+    │   ├── areas.csv
+    │   ├── canada_per_capita_income.csv
+    │   ├── hiring.csv
+    │   ├── homeprices.csv
+    │   ├── predicted_price.csv
+    │   └── anaconda_projects/
+    │
+    ├── Day_28/
+    │   ├── Day28_Logistic_Regression_Exercise_Iris.ipynb
+    │   ├── Day28_Logistic_Regression_Exercise.ipynb
+    │   └── Day28_Logistic_Regression.ipynb
+    │
+    ├── Day_29/
+    │   ├── day29_PythonFundmentals.ipynb
+    │   └── anaconda_projects/
+    │
+    ├── Day_47/
+    │   └── (Advanced ML Topics)
+    │
+    ├── Day_57/
+    │   └── app.py
+    │
+    ├── Day_65/
+    │   ├── app.py
+    │   ├── model.pkl
+    │   ├── requirements.txt
+    │   ├── train_model.py
+    │   └── .ipynb_checkpoints/
+    │
+    ├── Day_72/
+    │   ├── YOLO.zip
+    │   ├── detect.py
+    │   ├── output.jpg
+    │   ├── traffic.jpg
+    │   └── yolov8n.pt
+    │
+    └── .ipynb_checkpoints/
 ```
 
-## Course Content
+## Learning Outcomes
 
-## 📅 Day 1: Welcome & Setup
-**Files:**  
-- src/Day 1/hello.py  
-- src/Day 1/version_check.py  
+By completing this internship project, you will have covered:
 
-**Topics Covered:**
-- System Orientation & Tool Awareness
-- Python Installation & Verification
-- VS Code & Anaconda Setup
-- GitHub Account & Repository Creation
+✓ **Python Fundamentals** - Variables, data types, control flow, functions  
+✓ **Data Structures** - Lists, tuples, dictionaries, sets  
+✓ **File Handling** - Reading/writing files, CSV operations  
+✓ **SQL & Database** - SQL joins, database operations  
+✓ **Data Cleaning** - Handling dirty data, preprocessing  
+✓ **Data Visualization** - Creating charts and visualizations  
+✓ **Machine Learning** - Linear & Logistic Regression, model training  
+✓ **Computer Vision** - Object Detection with YOLO  
 
-**Key Learnings:**
-- Environment Setup: Installed Python and verified using version commands
-- IDE Familiarity: Configured VS Code for Python development
-- Version Checking: Used terminal/command prompt to verify Python installation
-- First Program: Wrote and executed a basic "Hello World" script
-- GitHub Basics: Created repository and pushed initial project files
+## Topics Covered
+
+### Fundamentals (Day 1 - Day 16)
+- **Day 1**: Introduction to Python (Hello.py)
+- **Day 2-4**: Python Fundamentals (variables, operators, data types)
+- **Day 5-6**: Functions, modules, and code organization
+- **Day 7**: File handling and data reading (CSV, TXT)
+- **Day 8**: NumPy arrays, broadcasting, reshaping
+- **Day 9-10**: Data structures and data cleaning
+- **Day 11-16**: Additional fundamentals and practice tasks
+
+### Intermediate Topics (Day 17 - Day 29)
+- **Day 17**: SQL Joins with Python
+- **Day 19**: Merge operations and data merging
+- **Day 20**: PDF generation and mini-projects
+- **Day 21**: Introduction to Machine Learning
+- **Day 27**: Linear Regression and data visualization
+- **Day 28**: Logistic Regression (Iris dataset)
+- **Day 29**: Advanced Python fundamentals
+
+### Advanced Topics (Day 47+)
+- **Day_57**: Application development
+- **Day_65**: Machine Learning Model Training
+  - Model training and persistence
+  - Inference application
+  - Package requirements documentation
+  
+- **Day_72**: YOLO Object Detection
+  - YOLOv8 object detection
+  - Image processing and detection
+  - Computer vision applications
+
+## Key Files Reference
+
+| File/Folder | Description | Location |
+|------------|-------------|----------|
+| `plots.py` | Plotting utilities | Root directory |
+| `Day_65/train_model.py` | ML model training script | src/Day_65/ |
+| `Day_65/app.py` | Model inference application | src/Day_65/ |
+| `Day_72/detect.py` | YOLO detection script | src/Day_72/ |
+| `Day_27/day27_pythonfundmentals.ipynb` | Linear regression tutorial | src/Day_27/ |
+| `Day_28/Day28_Logistic_Regression.ipynb` | Classification example | src/Day_28/ |
+
+## Getting Started
+
+### Prerequisites
+- Python 3.8+
+- Jupyter Notebook (for .ipynb files)
+- Required packages: pandas, numpy, scikit-learn, matplotlib
+
+### Running Examples
+
+```bash
+# Navigate to a specific day
+cd src/Day_27
+
+# Run Jupyter notebook
+jupyter notebook day27_pythonfundmentals.ipynb
+
+# Or run Python scripts
+python day27_pythonfundmentals.py
+```
+
+### Installing Dependencies
+
+For Day_65 (ML Models):
+```bash
+cd src/Day_65
+pip install -r requirements.txt
+```
+
+For Day_72 (YOLO):
+```bash
+cd src/Day_72
+pip install ultralytics opencv-python
+```
+
+## Repository Status
+
+- **Last Commit**: Added Day 65 (ML Models) and Day 72 (YOLO Object Detection)
+- **Branch**: main
+- **Total Days Covered**: 72+ (spanning fundamentals to advanced AI/ML)
+- **Last Updated**: April 2026
+
+## Author & License
+
+Created during Data Science & AI Internship (2024-2026)
 
 ---
 
-## 📅 Day 2: Variables, Data Types & Control Flow
-**File:**  
-- src/Day 2/day2fundamentals.py  
-
-**Topics Covered:**
-- Data Types: int, float, string, boolean
-- Type Checking: Using `type()` function
-- User Input: Accepting input with `input()` and type conversion
-- Conditional Statements: if-elif-else logic
-- Arithmetic Operations: Addition, subtraction, multiplication, division
-- Error Handling: Division by zero checks
-- String Formatting: String concatenation
-
----
-
-## 📅 Day 3: Lists & Tuples
-**File:**  
-- src/Day 3/day3fundamentals.py  
-
-**Topics Covered:**
-- Lists & Tuples: Creation and basic usage
-- Indexing & Slicing: Accessing elements using positive and negative indexes
-- List Methods: append(), insert(), remove(), pop()
-- Mutability: Understanding how lists can be modified
-- Tuple Immutability: Why tuples are safer for fixed data
-- Real-world Use Cases: Lists vs Tuples comparison
-
----
-
-## 📅 Day 4: Dictionaries & Sets
-**File:**  
-- src/Day 4/day4fundamentals.py  
-
-**Topics Covered:**
-- Dictionaries: Key-value pair data structure
-- Dictionary Operations: Adding, updating, deleting elements
-- Safe Access: Using `.get()` to avoid KeyErrors
-- Iteration: Looping through keys and values
-- Sets: Creating unique collections
-- Set Operations: Union, intersection, difference
-- Duplicate Removal: Using sets for data cleaning
-
----
-
-## 📅 Day 5: Functions & Modules
-**Files:**  
-- src/Day 5/main.py  
-- src/Day 5/math_operations.py
-
-**Topics Covered:**
-- Functions: Defining and calling functions
-- Arguments & Return Values
-- Variable Scope: Local vs Global
-- Built-in Modules: Importing standard Python modules
-- Custom Modules: Creating and importing user-defined modules
-- Code Organization: Separating logic into reusable components
-- Real-world Practice: Power calculation and average computation
-
----
-
-## Day 6: Key Learnings
-
-- **Working with Files:** Learned how to open, read, write, and append data to files, enabling programs to store information persistently.
-- **Safe Resource Management:** Understood how using `with open()` automatically closes files after use, helping prevent memory leaks and file corruption.
-- **CSV Data Handling:** Learned the basics of reading and processing CSV files to work with structured, tabular data.
-- **Error Handling Techniques:** Gained experience using `try` and `except` blocks to handle errors gracefully without crashing the program.
-
-  ---
-
-## Day 7: File Handling
-
-### 📘 Topics Covered
-
-#### 1. Introduction to File Reading & Writing
-- Learned the basics of reading from and writing to files in Python.
-- Understood different file modes such as read (`r`), write (`w`), and append (`a`).
-
-#### 2. Context Managers using `with open()`
-- Studied how context managers ensure files are properly closed after use, even if an error occurs.
-- Learned why the `with open()` syntax is the recommended approach for file handling in Python.
-- Understood how improper file handling can lead to memory leaks and resource exhaustion in larger applications.
-
-  ---
-
-  ## 📅 Day 8: NumPy – Arrays, Broadcasting & Reshaping
+*This project demonstrates progression through Python programming, data science, and AI/ML concepts in a structured, daily-lesson format.*
 
 **File:**  
 - `src/Day 8/day8_numpy.py`
